@@ -5,7 +5,7 @@ title: Factual Record
 
 # Factual Record
 
-This page presents a chronological record of verified facts relating to the death of Beverly Kay Schappaugh. All statements are drawn from primary sources — official documents and contemporaneous public reporting. Sources are cited for each entry. No interpretation or commentary is included.
+This page presents a chronological record of verified facts relating to the death of Beverly Kay Schappaugh. All statements are drawn from primary sources - official documents and contemporaneous public reporting. Sources are cited for each entry. No interpretation or commentary is included.
 
 ---
 
@@ -19,7 +19,7 @@ Beverly Kay Schappaugh participates in the federal Head Start program as an elem
 
 ---
 
-**June 18, 1990 — approximately 7:30 AM**
+**June 18, 1990 - approximately 7:30 AM**
 Beverly Kay Schappaugh is found in the parking lot of Pine Grove Elementary School, Bemiss Road, Valdosta, Lowndes County, Georgia. She is 48 years old.
 *Source: Georgia Certificate of Death, Lowndes County*
 
@@ -33,19 +33,19 @@ Beverly Kay Schappaugh is pronounced dead.
 
 **June 19, 1990**
 The Valdosta Daily Times reports her death under the headline "Lowndes Teacher Discovered Dead."
-*Source: Valdosta Daily Times, June 19, 1990 — VSU certified archival PDF*
+*Source: Valdosta Daily Times, June 19, 1990 - VSU certified archival PDF*
 
 ---
 
 **June 19, 1990**
 The Florida Times-Union reports her death under the headline "Lowndes Teacher Found Shot to Death."
-*Source: Florida Times-Union, June 19, 1990 — family-preserved scan*
+*Source: Florida Times-Union, June 19, 1990 - family-preserved scan*
 
 ---
 
 **June 21, 1990**
 The Valdosta Daily Times publishes Beverly Kay Schappaugh's obituary and reports under the headline "Gun Was Teacher's."
-*Source: Valdosta Daily Times, June 21, 1990 — VSU certified archival PDF*
+*Source: Valdosta Daily Times, June 21, 1990 - VSU certified archival PDF*
 
 ---
 
@@ -57,31 +57,31 @@ Beverly Kay Schappaugh is entombed at Riverview Memorial Gardens, Valdosta, Geor
 
 **June 23, 1990**
 The Valdosta Daily Times reports under the headline "Teacher's Death Still Mystery."
-*Source: Valdosta Daily Times, June 23, 1990 — VSU certified archival PDF*
+*Source: Valdosta Daily Times, June 23, 1990 - VSU certified archival PDF*
 
 ---
 
 **June 30, 1990**
 The Valdosta Daily Times reports a judicial gag order placed on the death investigation under the headline "Judge 'Gags' Death Probe."
-*Source: Valdosta Daily Times, June 30, 1990 — VSU certified archival PDF*
+*Source: Valdosta Daily Times, June 30, 1990 - VSU certified archival PDF*
 
 ---
 
 **August 16, 1990**
 The Valdosta Daily Times reports under the headline "Schoolteacher Found Slain."
-*Source: Valdosta Daily Times, August 16, 1990 — VSU certified archival PDF*
+*Source: Valdosta Daily Times, August 16, 1990 - VSU certified archival PDF*
 
 ---
 
 **September 7, 1990**
 The Lowndes County Sheriff's Department convenes a meeting to review evidence in the death of Beverly K. Schappaugh. Present at the meeting are Coroner Walter Wacter, District Attorney H. Lamar Cole, Assistant District Attorney David Miller, Sheriff G. Robert Carter, Captain Billy W. Selph, Lieutenant Logan Henderson, and Lowndes County Sheriff's Department detectives. Following this meeting, Sheriff G. Robert Carter issues an official news release stating that Beverly K. Schappaugh was murdered. No arrest is made. The investigation is reported as continuing.
-*Source: Lowndes County Sheriff's Department News Release, signed by G. Robert Carter, Sheriff of Lowndes County, September 7, 1990 — held in family archive*
+*Source: Lowndes County Sheriff's Department News Release, signed by G. Robert Carter, Sheriff of Lowndes County, September 7, 1990 - held in family archive*
 
 ---
 
 **September 14, 1990**
 The Valdosta Daily Times reports the official ruling of homicide under the headline "Teacher's Death: Murder."
-*Source: Valdosta Daily Times, September 14, 1990 — family-preserved scan, sole known copy. This edition is not present in the Valdosta State University microfilm archive. Absence confirmed by VSU Archives staff after multiple searches.*
+*Source: Valdosta Daily Times, September 14, 1990 - family-preserved scan, sole known copy. This edition is not present in the Valdosta State University microfilm archive. Absence confirmed by VSU Archives staff after multiple searches.*
 
 ---
 
@@ -93,37 +93,37 @@ The Georgia Certificate of Death records the cause of death as exsanguination du
 
 **Approximate 1992**
 The Valdosta Daily Times revisits the case under the headline "Questions Remain Two Years After Teacher's Death."
-*Source: Valdosta Daily Times, approximate 1992 — family-preserved scan, archival version not located*
+*Source: Valdosta Daily Times, approximate 1992 - family-preserved scan, archival version not located*
 
 ---
 
 **January 9, 1993**
 The Valdosta Daily Times revisits the case under the headline "Teacher's Death Gets Another Look."
-*Source: Valdosta Daily Times, January 9, 1993 — VSU certified archival PDF*
+*Source: Valdosta Daily Times, January 9, 1993 - VSU certified archival PDF*
 
 ---
 
 **Approximate 1993**
 The Valdosta Daily Times reports a reward offered in connection with the murder of Beverly Kay Schappaugh.
-*Source: Valdosta Daily Times, approximate 1993 — family-preserved scan, archival version not located*
+*Source: Valdosta Daily Times, approximate 1993 - family-preserved scan, archival version not located*
 
 ---
 
 **June 21, 2006**
 On the sixteenth anniversary of Beverly Kay Schappaugh's death, family members publish a letter in the Waycross Journal-Herald documenting their dissatisfaction with the progress of the murder investigation and the lack of press coverage of the unsolved case.
-*Source: Waycross Journal-Herald, June 21, 2006 — family-preserved copy*
+*Source: Waycross Journal-Herald, June 21, 2006 - family-preserved copy*
 
 ---
 
 **June 22, 2006**
 WALB News 10 reports on the unsolved case under the headline "Georgia Family Still Hopes for Closure." The report confirms the case remains open and under a gag order as of 2006.
-*Source: WALB News 10, June 22, 2006 — archived web report, family-preserved copy*
+*Source: WALB News 10, June 22, 2006 - archived web report, family-preserved copy*
 
 ---
 
 **2025**
 The Georgia Department of Human Resources Vital Records Service confirmed that the official Certificate of Death for Beverly Kay Schappaugh on file in the Georgia State Archives reflects manner of death as homicide. State file number 1990GA000033892. This record is consistent with the Lowndes County copy held by the family.
-*Source: Written confirmation from Forsyth County Probate Court acting on behalf of Georgia State Office of Vital Records, August 2025 — retained in family archive*
+*Source: Written confirmation from Forsyth County Probate Court acting on behalf of Georgia State Office of Vital Records, August 2025 - retained in family archive*
 
 ---
 

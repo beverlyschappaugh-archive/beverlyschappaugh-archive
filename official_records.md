@@ -17,11 +17,11 @@ This page presents official documents relating to the death of Beverly Kay Schap
 **Manner of Death:** Homicide
 **Cause of Death:** Exsanguination due to gunshot wound to the chest
 **Place of Injury:** School parking lot, Bemiss Road, Valdosta, Georgia
-*Source: Official sealed copy issued by Lowndes County at time of ruling — held in family archive*
+*Source: Official sealed copy issued by Lowndes County at time of ruling - held in family archive*
 
 ---
 
-## Lowndes County Sheriff's Department — Official News Release
+## Lowndes County Sheriff's Department - Official News Release
 
 **Date:** September 7, 1990
 **Issuing Authority:** G. Robert Carter, Sheriff of Lowndes County
@@ -31,7 +31,7 @@ This news release documents the convening of an official meeting on September 7,
 
 The release states that following careful consideration of evidence and witness statements, Beverly K. Schappaugh was officially ruled murdered. No arrest was made. The investigation was reported as continuing.
 
-*Source: Original news release signed by G. Robert Carter, Sheriff of Lowndes County — held in family archive*
+*Source: Original news release signed by G. Robert Carter, Sheriff of Lowndes County - held in family archive*
 
 ---
 
