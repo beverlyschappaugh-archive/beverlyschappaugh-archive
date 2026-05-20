@@ -3,3 +3,9 @@ description: "A permanent public record of the life and unsolved homicide of Bev
 theme: minima
 url: "https://beverlyschappaugh-archive.github.io"
 permalink: pretty
+header_pages:
+  - about.md
+  - factual_record.md
+  - official_records.md
+  - reporting.md
+  - terminology.md
