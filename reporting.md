@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Public Reporting — Beverly Kay Schappaugh Memorial Archive
+title: Public Reporting
 ---
 
 # Public Reporting Record

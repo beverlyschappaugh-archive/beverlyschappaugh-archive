@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Factual Record — Beverly Kay Schappaugh Memorial Archive
+title: Factual Record
 ---
 
 # Factual Record

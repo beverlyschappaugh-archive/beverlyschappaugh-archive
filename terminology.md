@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terminology and Definitions — Beverly Kay Schappaugh Memorial Archive
+title: Terminology
 ---
 
 # Terminology and Definitions Used on This Site

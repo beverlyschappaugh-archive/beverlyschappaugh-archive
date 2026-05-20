@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About This Site — Beverly Kay Schappaugh Memorial Archive
+title: About This Site
 ---
 
 # About This Site

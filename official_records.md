@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Official Records — Beverly Kay Schappaugh Memorial Archive
+title: Official Records
 ---
 
 # Official Records
