@@ -4,7 +4,7 @@ title: Official Records
 ---
 # Official Records
 
-This page presents official documents relating to the death of Beverly Kay Schappaugh. Documents are preserved exactly as received. No annotation, redaction, or commentary is applied. Provenance is identified for each artifact.
+This page presents official documents relating to the death of Beverly Kay Schappaugh. Documents are presented as received. The death certificate contains one redaction: the Social Security Number has been obscured to protect private information. All other fields on all documents are unaltered. Provenance is identified for each artifact.
 
 ---
 
