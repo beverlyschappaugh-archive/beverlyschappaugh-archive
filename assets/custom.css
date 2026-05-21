@@ -6,3 +6,4 @@ a { color: #79b8ff !important; }
 .site-nav { background-color: #111111 !important; }
 .site-footer { background-color: #111111 !important; border-top: 1px solid #333 !important; color: #888 !important; }
 pre, code { background-color: #2a2a2a !important; border: 1px solid #444 !important; }
+img { max-width: 320px; display: block; margin: 0 auto 20px auto; }
