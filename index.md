@@ -6,7 +6,7 @@ title: Beverly Kay Schappaugh - Memorial Archive
 
 ![Beverly Kay Dexter Schappaugh](beverly_memorial.jpg)
 
-**August 25, 1941 - June 18, 1990** *Valdosta, Georgia*
+<p style="text-align: center;"><strong>August 25, 1941 - June 18, 1990</strong> <em>Valdosta, Georgia</em></p>
 
 Beverly Kay Dexter Schappaugh was born on August 25, 1941 in Roaring Spring, Pennsylvania, the daughter of John and Dorcus Dexter. She lived and worked in Valdosta, Georgia where she built a career as a dedicated elementary school educator. She earned a Master's degree and was among the early teachers who participated in the federal Head Start program in the late 1960s.
 
