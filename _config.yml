@@ -9,3 +9,5 @@ header_pages:
   - official_records.md
   - reporting.md
   - terminology.md
+plugins:
+  - jekyll-sitemap
