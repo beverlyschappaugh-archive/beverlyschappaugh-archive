@@ -10,3 +10,5 @@ img { max-width: 320px; display: block; margin: 0 auto 20px auto; }
 h1 { text-align: center; }
 .site-title { float: none; text-align: center; display: block; }
 .site-nav { float: none; text-align: center; }
+.footer-col-1 { display: none; }
+.footer-col-3 { width: 100%; }
