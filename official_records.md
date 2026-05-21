@@ -19,6 +19,8 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 *Source: Official sealed copy issued by Lowndes County at time of ruling - held in family archive*
 
+*Note: This copy is the official sealed copy issued at the county level at the time of the ruling. The state file number 1990GA000033892 was assigned upon filing with the Georgia State Archives in Atlanta and is confirmed in the 2025 vital records verification above.*
+
 <a href="/assets/documents/death_certificate_1990GA000033892_redacted.jpg" target="_blank">View Document →</a>
 
 ---
