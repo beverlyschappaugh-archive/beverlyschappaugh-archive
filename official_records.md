@@ -19,7 +19,7 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 *Source: Official sealed copy issued by Lowndes County at time of ruling - held in family archive*
 
-*Document pending publication pending redaction of protected fields.*
+<a href="/assets/documents/death_certificate_1990GA000033892_redacted.jpg" target="_blank">View Document →</a>
 
 ---
 
