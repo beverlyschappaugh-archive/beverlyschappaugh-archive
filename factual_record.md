@@ -130,6 +130,3 @@ The Georgia Department of Human Resources Vital Records Service confirmed that t
 **June 18, 2026**
 Thirty-six years after her death, the murder of Beverly Kay Schappaugh remains officially unsolved.
 
----
-
-[Home](index.md) | [About](about.md) | [Official Records](official_records.md) | [Public Reporting](reporting.md) | [Terminology](terminology.md)

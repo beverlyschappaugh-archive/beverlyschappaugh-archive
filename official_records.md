@@ -42,6 +42,3 @@ The release states that following careful consideration of evidence and witness 
 **Verification:** The official Certificate of Death for Beverly Kay Schappaugh on file with the Georgia State Office of Vital Records reflects manner of death as homicide at field 27. State file number confirmed as 1990GA000033892. Record is consistent with the Lowndes County copy held by the family.
 *Source: Written confirmation retained in family archive*
 
----
-
-[Home](index.md) | [About](about.md) | [Factual Record](factual_record.md) | [Public Reporting](reporting.md) | [Terminology](terminology.md)

@@ -159,6 +159,3 @@ Public silence is not interpreted as absence of investigative focus.
 
 Circumstantial evidence is not labeled or characterized on this site. The factual record presents only what is directly documented in official records and contemporaneous reporting.
 
----
-
-[Home](index.md) | [About](about.md) | [Factual Record](factual_record.md) | [Official Records](official_records.md) | [Public Reporting](reporting.md)

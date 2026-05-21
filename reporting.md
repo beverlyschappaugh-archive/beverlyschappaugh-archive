@@ -107,6 +107,3 @@ Broadcast report confirming the case remains open and under a gag order as of 20
 
 VSU Archives staff confirmed that the following dates are missing from the Valdosta Daily Times microfilm collection: September 2, September 4, and September 14, 1990. The reasons for these absences are undocumented.
 
----
-
-[Home](index.md) | [About](about.md) | [Factual Record](factual_record.md) | [Official Records](official_records.md) | [Terminology](terminology.md)

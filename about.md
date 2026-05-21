@@ -21,6 +21,3 @@ If you have information relevant to this case, please contact the Georgia Bureau
 
 *This site is dedicated to Beverly Kay Dexter Schappaugh - teacher, mother, and a woman who deserved better.*
 
----
-
-[Home](index.md) | [Factual Record](factual_record.md) | [Official Records](official_records.md) | [Public Reporting](reporting.md) | [Terminology](terminology.md)
