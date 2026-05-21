@@ -12,3 +12,4 @@ h1 { text-align: center; }
 .site-nav { float: none; text-align: center; }
 .footer-col-1 { display: none; }
 .footer-col-3 { width: 100%; }
+.footer-heading { margin-bottom: 8px; }
