@@ -14,3 +14,7 @@ h1 { text-align: center; }
 .footer-col-3 { width: 100%; }
 .footer-heading { margin-bottom: 8px; }
 .footer-heading { margin-bottom: 4px !important; }
+.site-footer { text-align: center; }
+.footer-col-wrapper { text-align: center; }
+.footer-heading a { color: #e0e0e0; text-decoration: none; }
+.footer-heading a:hover { color: #79b8ff; }
