@@ -20,7 +20,7 @@ Beverly Kay Schappaugh participates in the federal Head Start program as an elem
 ---
 
 **June 18, 1990 - approximately 7:30 AM**
-Beverly Kay Schappaugh is found in the parking lot of Pine Grove Elementary School, Bemiss Road, Valdosta, Lowndes County, Georgia. She is 48 years old.
+Beverly Kay Schappaugh is found in the parking lot of Pine Grove Elementary School, Bemiss Road, Valdosta, Lowndes County, Georgia. She is 48 years old. The death certificate records this date as the date of death with the notation "FOUND," indicating the date of discovery. Her vehicle had been observed on school grounds at approximately 5:30 p.m. the previous evening, Sunday June 17. The grave marker at Riverview Memorial Gardens reflects June 17, 1990. Both dates appear in official records for the reasons stated.
 *Source: Georgia Certificate of Death, Lowndes County*
 
 ---
