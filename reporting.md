@@ -29,6 +29,15 @@ Florida Times-Union - Jacksonville, Florida
 
 ---
 
+**June 19, 1990**
+*"Lowndes Teacher Is Found Dead"*
+Atlanta Journal-Constitution - Atlanta, Georgia
+*Source: Family-preserved scan - original newspaper clipping photographed from Find a Grave memorial contribution. This report documents coverage of the case in the Atlanta regional press.*
+
+<a href="/assets/documents/ajc_june1990_beverlyschappaugh_photocopy.jpeg" target="_blank">View Document →</a>
+
+---
+
 **June 21, 1990**
 *"Gun Was Teacher's"*
 Valdosta Daily Times
