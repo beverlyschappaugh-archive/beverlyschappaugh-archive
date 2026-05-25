@@ -12,7 +12,7 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 **State File Number:** 1990GA000033892
 **Decedent:** Beverly Kay Schappaugh
-**Date of Death:** June 18, 1990 (date body was discovered — noted as "FOUND" on the certificate)
+**Date of Death:** June 18, 1990 (date body was discovered - noted as "FOUND" on the certificate)
 *Note: The grave marker at Riverview Memorial Gardens reflects June 17, 1990, consistent with evidence that her vehicle was observed on school grounds at approximately 5:30 p.m. Sunday June 17. The date of actual death and the date of discovery are recorded differently across official documents. Both are factually accurate for the event each records.*
 **Manner of Death:** Homicide
 **Cause of Death:** Exsanguination due to gunshot wound to the chest
