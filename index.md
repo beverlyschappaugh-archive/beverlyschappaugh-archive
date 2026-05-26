@@ -4,7 +4,7 @@ title: Beverly Kay Schappaugh - Memorial Archive
 ---
 # Beverly Kay Dexter Schappaugh
 
-![Beverly Kay Dexter Schappaugh](beverly_memorial.jpg)
+![Beverly Kay Dexter Schappaugh](beverly-schappaugh-memorial-portrait.jpg)
 
 <p style="text-align: center;"><strong>August 25, 1941 - June 18, 1990</strong> <em>Valdosta, Georgia</em></p>
 

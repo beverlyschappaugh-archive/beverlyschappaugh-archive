@@ -16,7 +16,7 @@ Archival PDFs were obtained from the Valdosta State University Archives and Spec
 Valdosta Daily Times
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/vdt_june191990.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-june-19-1990.pdf" target="_blank">View Document →</a>
 
 ---
 
@@ -25,7 +25,7 @@ Valdosta Daily Times
 Florida Times-Union - Jacksonville, Florida
 *Source: Family-preserved scan - original newspaper clipping. This report documents coverage of the case beyond the Valdosta regional press.*
 
-<a href="/assets/documents/ftu_jax_june191990.jpg" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-ftu-june-19-1990-photocopy.jpg" target="_blank">View Document →</a>
 
 ---
 
@@ -34,7 +34,7 @@ Florida Times-Union - Jacksonville, Florida
 Atlanta Journal-Constitution - Atlanta, Georgia
 *Source: Family-preserved scan - original newspaper clipping photographed from Find a Grave memorial contribution. This report documents coverage of the case in the Atlanta regional press.*
 
-<a href="/assets/documents/ajc_june1990_beverlyschappaugh_photocopy.jpeg" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-ajc-june-19-1990-photocopy.jpg" target="_blank">View Document →</a>
 
 ---
 
@@ -47,9 +47,9 @@ Valdosta Daily Times
 Valdosta Daily Times
 *Source: VSU Archives and Special Collections - certified archival PDF. Obituary is included within this edition.*
 
-<a href="/assets/documents/vdt_june211990_include_obit.pdf" target="_blank">View Full Edition Including Obituary →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-june-21-1990-with-obit.pdf" target="_blank">View Full Edition Including Obituary →</a>
 
-<a href="/assets/documents/vdt_june211990_obit_photocopy.jpg" target="_blank">View Obituary Only →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-june-21-1990-obit-photocopy.jpg" target="_blank">View Obituary Only →</a>
 
 ---
 
@@ -58,7 +58,7 @@ Valdosta Daily Times
 Valdosta Daily Times
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/vdt_june231990.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-june-23-1990.pdf" target="_blank">View Document →</a>
 
 ---
 
@@ -67,7 +67,7 @@ Valdosta Daily Times
 Valdosta Daily Times
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/vdt_june301990.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-june-30-1990.pdf" target="_blank">View Document →</a>
 
 ---
 
@@ -76,7 +76,7 @@ Valdosta Daily Times
 Valdosta Daily Times
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/vdt_august161990.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-august-16-1990.pdf" target="_blank">View Document →</a>
 
 ---
 
@@ -87,7 +87,7 @@ Valdosta Daily Times
 
 *Note: This edition reported the official ruling of Beverly Kay Schappaugh's death as homicide, three months after her body was discovered.*
 
-<a href="/assets/documents/vdt_sept141990_photocopy.jpg" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-september-14-1990-photocopy.jpg" target="_blank">View Document →</a>
 
 ---
 
@@ -96,7 +96,7 @@ Valdosta Daily Times
 Valdosta Daily Times
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
 
-<a href="/assets/documents/vdt_1992_photocopy.jpg" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-circa-1992-photocopy.jpg" target="_blank">View Document →</a>
 
 ---
 
@@ -105,7 +105,7 @@ Valdosta Daily Times
 Valdosta Daily Times
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/vdt_january91993.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-january-9-1993.pdf" target="_blank">View Document →</a>
 
 ---
 
@@ -114,7 +114,7 @@ Valdosta Daily Times
 Valdosta Daily Times
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
 
-<a href="/assets/documents/vdt_1993_photocopy.jpg" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-circa-1993-photocopy.jpg" target="_blank">View Document →</a>
 
 ---
 
@@ -124,7 +124,7 @@ Waycross Journal-Herald - Waycross, Georgia
 Submitted by family members of Beverly Kay Schappaugh on the sixteenth anniversary of her death. The letter documents the family's dissatisfaction with the progress of the murder investigation and questions the lack of press coverage of the unsolved case.
 *Source: Waycross Journal-Herald, June 21, 2006 - family-preserved copy*
 
-<a href="/assets/documents/waycrossjournalherald_2006_letter.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-waycross-journal-herald-june-21-2006.pdf" target="_blank">View Document →</a>
 
 ---
 
@@ -134,5 +134,5 @@ WALB News 10 - Albany/Valdosta, Georgia
 Broadcast report confirming the case remains open and under a gag order as of 2006.
 *Source: WALB News 10, June 22, 2006 - archived web report, family-preserved copy*
 
-<a href="/assets/documents/walbtv_june222006_web_report.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006.pdf" target="_blank">View Document →</a>
 

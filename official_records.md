@@ -22,7 +22,7 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 *Note: This copy is the official sealed copy issued at the county level at the time of the ruling. The state file number 1990GA000033892 was assigned upon filing with the Georgia State Archives in Atlanta and is confirmed in the 2025 vital records verification below.*
 
-<a href="/assets/documents/death_certificate_1990GA000033892_redacted.jpg" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-death-certificate-1990-redacted.jpg" target="_blank">View Document →</a>
 
 ---
 
@@ -38,7 +38,7 @@ The release states that following careful consideration of evidence and witness 
 
 *Source: Original news release signed by G. Robert Carter, Sheriff of Lowndes County - held in family archive*
 
-<a href="/assets/documents/lowndes_press_release.jpg" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" target="_blank">View Document →</a>
 
 ---
 
@@ -62,4 +62,4 @@ Documentation provided by VSU Archives and Special Collections confirming the Se
 
 *Source: VSU Archives and Special Collections - provided to family during 2025 research correspondence*
 
-<a href="/assets/documents/vdt_missing_archive_sep141990.pdf" target="_blank">View Document →</a>
+<a href="/assets/documents/beverly-schappaugh-vdt-missing-archive-september-14-1990.pdf" target="_blank">View Document →</a>
