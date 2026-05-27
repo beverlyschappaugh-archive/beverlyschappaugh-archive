@@ -147,7 +147,7 @@ The release states that following careful consideration of evidence and witness 
 **Issuing Authority:** Valdosta State University Archives and Special Collections
 **Subject:** Absence of the September 14, 1990 edition of the Valdosta Daily Times from the VSU microfilm collection
 
-Documentation provided by VSU Archives and Special Collections confirming the September 14, 1990 edition of the Valdosta Daily Times is absent from the microfilm collection. This edition reported the official ruling of Beverly Kay Schappaugh's death as homicide. The reason for its absence from the institutional archive is undocumented. A family-preserved scan of this edition is the sole known surviving copy.
+Documentation provided by VSU Archives and Special Collections confirming the September 14, 1990 edition of the Valdosta Daily Times is absent from the VSU microfilm collection. The VSU microfilm archive is the official institutional archive for the Valdosta Daily Times. The document is a scan of the microfilm showing the September 15, 1990 edition where the September 14 edition should appear, demonstrating the gap in the sequential record. The September 14 edition reported the official ruling of Beverly Kay Schappaugh's death as homicide. The reason for its absence from the institutional archive is undocumented. A family-preserved scan of this edition is the sole known surviving copy.
 
 *Source: VSU Archives and Special Collections - provided to family during 2025 research correspondence*
 
