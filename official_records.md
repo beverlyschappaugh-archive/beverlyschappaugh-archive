@@ -10,17 +10,86 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 ## Georgia Certificate of Death
 
-**State File Number:** 1990GA000033892
-**Decedent:** Beverly Kay Schappaugh
-**Date of Death:** June 18, 1990 (date body was discovered - noted as "FOUND" on the certificate)
-*Note: The grave marker at Riverview Memorial Gardens reflects June 17, 1990, consistent with evidence that her vehicle was observed on school grounds at approximately 5:30 p.m. Sunday June 17. The date of actual death and the date of discovery are recorded differently across official documents. Both are factually accurate for the event each records.*
-**Manner of Death:** Homicide
-**Cause of Death:** Exsanguination due to gunshot wound to the chest
+**State File Number:** 1990GA000033892  
+**Decedent:** Beverly Kay Schappaugh  
+**Date of Death:** June 18, 1990 (date body was discovered - noted as "FOUND" on the certificate)  
+*Note: The grave marker at Riverview Memorial Gardens reflects June 17, 1990, consistent with evidence that her vehicle was observed on school grounds at approximately 5:30 p.m. Sunday June 17. The date of actual death and the date of discovery are recorded differently across official documents. Both are factually accurate for the event each records.*  
+**Manner of Death:** Homicide  
+**Cause of Death:** Exsanguination due to gunshot wound to the chest  
 **Place of Injury:** School parking lot, Bemiss Road, Valdosta, Georgia
 
 *Source: Official sealed copy issued by Lowndes County at time of ruling - held in family archive*
 
 *Note: This copy is the official sealed copy issued at the county level at the time of the ruling. The state file number 1990GA000033892 was assigned upon filing with the Georgia State Archives in Atlanta and is confirmed in the 2025 vital records verification below.*
+
+<img src="/assets/documents/beverly-schappaugh-death-certificate-1990-redacted.jpg" alt="Georgia Certificate of Death for Beverly Kay Schappaugh state file number 1990GA000033892 date of death June 18 1990 manner of death homicide cause of death exsanguination due to gun shot wound to chest certified by Coroner Walter Wacter" class="document-image">
+
+**Transcription of Key Fields:**
+
+> **Decedent's Name:** Beverly Kay Schappaugh
+> **Maiden/Last Name:** Dexter
+> **Sex:** Female
+> **Date of Death:** Jun 18 1990 (FOUND)
+> **Local File Number:** 548
+>
+> **Race:** White
+> **Origin:** American
+> **Date of Birth:** Aug 25 1941
+> **Age:** 48
+> **County of Death:** Lowndes
+>
+> **City/Location of Death:** Valdosta - Pine Grove Elementary School
+> **State/County of Birth:** PA Blair
+> **Citizen:** USA
+> **Marital Status:** Divorced
+>
+> **Occupation:** Teacher
+> **Kind of Industry or Business:** Elementary School
+>
+> **Residence:** Lowndes County, Valdosta, GA - PO Box 2392
+> **Inside City Limits:** No
+>
+> **Father's Name:** John Dexter
+> **Mother's Maiden Name:** Dorcas 'Dee' Helsel
+>
+> **Informant:** Paul Schappaugh, PO Box 2392, Valdosta GA 31602 - Son
+>
+> **Disposition:** Entombed, Jun 22 1990
+> **Cemetery:** Riverview Memorial Gardens, Valdosta GA Lowndes 31601
+> **Funeral Home:** Carson McLane Inc., 2215 N. Patterson St., Valdosta GA 31602
+> **Funeral Director License No.:** 3185
+> **Establishment License No.:** 435
+>
+> **Cause of Death:**
+> Part I - a. Immediate Cause: EXSANGUINATION - Interval: Minutes
+> Due to, or as a consequence of:
+> b. Gun Shot Wound to Chest - Interval: Minutes
+>
+> **Autopsy:** Yes
+> **Findings Considered in Determining Cause of Death:** Yes
+>
+> **Field 27 - Manner of Death:** HOMICIDE - FOUND
+> **Date of Injury:** Jun 18 1990
+> **How Injury Occurred:** Gun Shot Wound to Chest
+> **Hour of Injury:** Unknown
+> **Injury at Work:** No
+> **Place of Injury:** School Parking Lot
+> **Location:** Bemiss Rd, Valdosta GA 31601 Lowndes
+>
+> **Certifier:** Walter Wacter, Coroner
+> **Certifier Address:** Rt 2, Box 441, Lake Park, GA 31636
+> **Date Signed:** June 21, 1990
+> **Date Pronounced Dead:** June 18, 1990
+> **Hour Pronounced Dead:** 7:30 Am
+>
+> **Registrar:** Brenda Courson
+> **Date Received by Registrar:** Sept 14, 1990
+>
+> **Certificate of Record:**
+> This is an exact copy of the unnumbered death certificate received for filing in Lowndes County, Georgia.
+> Local Custodian: Brenda Courson
+> Date: Sept 14, 1990
+> County of Lowndes
 
 <a href="/assets/documents/beverly-schappaugh-death-certificate-1990-redacted.jpg" target="_blank">View Document →</a>
 
