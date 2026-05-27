@@ -18,6 +18,6 @@ h1 { text-align: center; }
 .footer-col-wrapper { text-align: center; }
 .footer-heading a { color: #e0e0e0; text-decoration: none; }
 .footer-heading a:hover { color: #79b8ff; }
-img.document-image { max-width: 350px; width: 100%; display: block; margin: 10px auto 5px auto; border: 1px solid #444; cursor: pointer; transition: opacity 0.2s; }
+img.document-image { max-width: 350px; width: 100%; height: 350px; object-fit: cover; object-position: top; display: block; margin: 10px auto 5px auto; border: 1px solid #444; cursor: pointer; transition: opacity 0.2s; }
 a.document-link:hover img.document-image { opacity: 0.85; border-color: #79b8ff; }
 a.document-link { display: block; text-align: center; }
