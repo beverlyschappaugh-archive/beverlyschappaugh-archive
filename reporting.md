@@ -11,10 +11,10 @@ Archival PDFs were obtained from the Valdosta State University Archives and Spec
 
 ---
 
-**June 19, 1990**
-*"Lowndes Teacher Discovered Dead"*
-Valdosta Daily Times
-*By Dean Poling, Times Staff Writer*
+**June 19, 1990**  
+*"Lowndes Teacher Discovered Dead"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
 > A local primary school teacher was shot to death outside of the school where she was employed late Sunday night or early Monday morning, a Lowndes County sheriff's department official said.
