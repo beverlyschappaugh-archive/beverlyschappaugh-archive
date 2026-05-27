@@ -93,14 +93,59 @@ Atlanta Journal-Constitution - Atlanta, Georgia
 
 ---
 
-**June 21, 1990**
-*"Gun Was Teacher's"*
-Valdosta Daily Times
-*Source: VSU Archives and Special Collections - certified archival PDF*
+**June 21, 1990**  
+*"Gun Was Teacher's"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
+*Source: VSU Archives and Special Collections - certified archival PDF. This edition includes the obituary.*
 
-*Obituary - Beverly Kay Schappaugh*
-Valdosta Daily Times
+> A gun found beside the body of a Pine Grove Primary School fourth-grade teacher shot to death sometime late Sunday or early Monday belonged to the teacher, authorities said Wednesday.
+>
+> Investigators are unsure how to rule the shooting death because of minor injuries found on Beverly K. Schappaugh's body.
+>
+> An autopsy report released late Tuesday from the Georgia State Crime Lab in Atlanta said Ms. Schappaugh, 48, of Valdosta, died of internal bleeding resulting from a single gunshot wound to her left breast area.
+>
+> The gun causing the wound belonged to her, said Detective Capt. Billy W. Selph of the Lowndes County Sheriff's Department.
+>
+> When officials found Ms. Schappaugh dead at 6:45 a.m. Monday in her gray 1987 Nissan Sentra, a .38-caliber handgun was lying in the passenger seat beside her, sheriff's reports said. The car was parked in the eastern corner of Pine Grove Primary's playground on Bemiss Road, the school where she taught and worked for the past year.
+>
+> After the death was reported Monday by a man walking his dog, Selph said, investigators noticed Ms. Schappaugh had several minor injuries resembling bruises. Early autopsy reports by Dr. Gerald Gowitt at the Atlanta crime lab confirmed minor injuries, he said.
+>
+> Selph would not specify the location of Ms. Schappaugh's minor injuries, but said several more tests are being done at both the Atlanta and Moultrie state crime labs.
+>
+> Anyone with any information is asked to call the sheriff's department at 333-5138.
+>
+> Ms. Schappaugh is believed to have been working at the school Sunday afternoon. Pine Grove Primary Principal Bernard Perry said it is not uncommon for teachers to work on Sundays, especially Ms. Schappaugh.
+>
+> "She was a very dedicated teacher who was enjoyed by her students, their parents and her fellow teachers," he said. "Instead of going strictly by the books or curriculum, she had a different approach to teaching to get her students more involved."
+>
+> Perry cited as an example when Ms. Schappaugh's class was studying a series of clown stories. Instead of merely reading the stories or assigning them, she dressed as a clown to make the content "life-like" for the students.
+>
+> Ms. Schappaugh completed her first year of teaching at Pine Grove June 6, having taught at Hahira Elementary since the 1979-80 school year. She also taught a year in the Berrien County school system, Perry said.
+
+<a href="/assets/documents/beverly-schappaugh-vdt-june-21-1990-with-obit.pdf" target="_blank">View Full Edition Including Obituary →</a>
+
+---
+
+*Obituary - Beverly Kay Schappaugh*  
+Valdosta Daily Times  
 *Source: VSU Archives and Special Collections - certified archival PDF. Obituary is included within this edition.*
+
+<img src="/assets/documents/beverly-schappaugh-vdt-june-21-1990-obit-photocopy.jpg" alt="Valdosta Daily Times June 21 1990 obituary for Beverly Kay Schappaugh fourth grade teacher Pine Grove Elementary School Valdosta Georgia volunteer Soup Kitchen survived by Paul Schappaugh Mark Schappaugh Stephanie Marquis" class="document-image">
+
+> BEVERLY K. SCHAPPAUGH
+>
+> Beverly Kay Schappaugh, 48, of Valdosta, died Sunday.
+>
+> She was born in Roaring Springs, Penn., on Aug. 25, 1941, to John and Dorcas "Dee" Dexter. Ms. Schappaugh had lived in Lowndes County since 1973, was a fourth grade school teacher at Pine Grove Elementary School and was a volunteer worker for the Soup Kitchen.
+>
+> She is survived by two sons, Paul Schappaugh of Valdosta and Mark Schappaugh of Atlanta; a daughter and son-in-law, Stephanie and Kenneth Marquis of Rota, Spain; her parents, John and Dorcas "Dee" Dexter of Crestview, Fla.; grandmother, Kathryn Helsel of Roaring Springs; and sisters, Johnna Smith of Chattanooga, Tenn., Elizabeth Williamson of Raleigh, N.C., and Karen Baker of Minneapolis, Minn.
+>
+> Funeral services for Ms. Schappaugh will be held Friday at 4 p.m. in the chapel of the Carson McLane Funeral Home with Dr. Clyde Stokes, pastor of Greenwood Baptist Church, officiating. Interment will be at McLane's Riverview Memorial Gardens.
+>
+> The family will be receiving friends at the funeral home from 7-9 p.m. on Thursday.
+>
+> Carson McLane Funeral Home is serving the Schappaugh family.
 
 <a href="/assets/documents/beverly-schappaugh-vdt-june-21-1990-with-obit.pdf" target="_blank">View Full Edition Including Obituary →</a>
 
