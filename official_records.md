@@ -28,8 +28,8 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 ## Lowndes County Sheriff's Department - Official News Release
 
-**Date:** September 7, 1990
-**Issuing Authority:** G. Robert Carter, Sheriff of Lowndes County
+**Date:** September 7, 1990  
+**Issuing Authority:** G. Robert Carter, Sheriff of Lowndes County  
 **Subject:** Official ruling in the death of Beverly K. Schappaugh
 
 This news release documents the convening of an official meeting on September 7, 1990 to review evidence in the death of Beverly K. Schappaugh. Attendees included the Coroner, District Attorney, Assistant District Attorney, Sheriff, and Lowndes County Sheriff's Department detectives and investigators.
@@ -37,6 +37,26 @@ This news release documents the convening of an official meeting on September 7,
 The release states that following careful consideration of evidence and witness statements, Beverly K. Schappaugh was officially ruled murdered. No arrest was made. The investigation was reported as continuing.
 
 *Source: Original news release signed by G. Robert Carter, Sheriff of Lowndes County - held in family archive*
+
+<img src="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" alt="Lowndes County Sheriff Department official news release dated September 7 1990 signed by Sheriff G Robert Carter officially ruling the death of Beverly K Schappaugh as murder" class="document-image">
+
+> LOWNDES COUNTY SHERIFF'S DEPT.
+> P. O. BOX 667 • VALDOSTA, GEORGIA 31603-0667 • (912) 333-5149
+>
+> G. ROBERT CARTER, N.A. / SHERIFF
+>
+> NEWS RELEASE
+>
+> On Friday, September 7, 1990, a meeting was held to discuss the evidence in the death of Beverly K. Schappaugh. Present at the meeting were Coroner Walter Wacter, District Attorney H. Lamar Cole, Assistant District Attorney David Miller, Sheriff G. Robert Carter, Captain Billy W. Selph, Lieutenant Logan Henderson, and Lowndes County Sheriff's Department Detectives investigating the case.
+>
+> After careful consideration of the evidence and witnesses' statements, it has been officially ruled that Beverly K. Schappaugh was murdered. No arrest has been made. The investigation is continuing.
+>
+> Lowndes County Detectives have investigated the case as a homicide since Beverly K. Schappaugh's body was discovered at Pine Grove School on June 18, 1990.
+>
+> G. Robert Carter, N. A.
+> Sheriff of Lowndes County
+
+*Footer: G. MEL RICKS, JR., N.A. / CHIEF DEPUTY • (912) 333-5143 / LOWNDES COUNTY JAIL • 111 ROSWELL DRIVE • VALDOSTA, GEORGIA 31601*
 
 <a href="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" target="_blank">View Document →</a>
 
