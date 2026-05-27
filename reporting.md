@@ -18,7 +18,7 @@ Valdosta Daily Times
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-june-19-1990-article-closeup.jpg" alt="Valdosta Daily Times June 19 1990 article by Dean Poling reporting Lowndes County teacher Beverly Schappaugh discovered dead from single bullet wound at Pine Grove Primary School Valdosta Georgia" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-june-19-1990-article-closeup.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-june-19-1990-article-closeup.jpg" alt="Valdosta Daily Times June 19 1990 article by Dean Poling reporting Lowndes County teacher Beverly Schappaugh discovered dead from single bullet wound at Pine Grove Primary School Valdosta Georgia" class="document-image"></a>
 
 > A local primary school teacher was shot to death outside of the school where she was employed late Sunday night or early Monday morning, a Lowndes County sheriff's department official said.
 >
@@ -48,7 +48,7 @@ Florida Times-Union - Jacksonville, Florida
 *From staff*  
 *Source: Family-preserved scan - original newspaper clipping. This report documents coverage of the case beyond the Valdosta regional press.*
 
-<img src="/assets/documents/beverly-schappaugh-ftu-june-19-1990-photocopy.jpg" alt="Florida Times-Union Jacksonville Florida June 19 1990 article reporting on the death of Beverly Schappaugh Lowndes County teacher found shot to death at Pine Grove Elementary School Valdosta Georgia" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-ftu-june-19-1990-photocopy.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-ftu-june-19-1990-photocopy.jpg" alt="Florida Times-Union Jacksonville Florida June 19 1990 article reporting on the death of Beverly Schappaugh Lowndes County teacher found shot to death at Pine Grove Elementary School Valdosta Georgia" class="document-image"></a>
 
 > VALDOSTA, Ga. — Beverly Schappaugh, 48, a Lowndes County fourth-grade teacher, was found dead in her car yesterday with a bullet wound in the left side of her chest, police officials said.
 >
@@ -80,7 +80,7 @@ Atlanta Journal-Constitution - Atlanta, Georgia
 *By Robert Bohler, Special to the Journal-Constitution*  
 *Source: Family-preserved scan - original newspaper clipping photographed from Find a Grave memorial contribution. This report documents coverage of the case in the Atlanta regional press.*
 
-<img src="/assets/documents/beverly-schappaugh-ajc-june-19-1990-photocopy.jpg" alt="Atlanta Journal-Constitution June 19 1990 article by Robert Bohler reporting on the death of Beverly Kay Schappaugh Lowndes County elementary school teacher found dead at Pine Grove Elementary School Valdosta Georgia" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-ajc-june-19-1990-photocopy.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-ajc-june-19-1990-photocopy.jpg" alt="Atlanta Journal-Constitution June 19 1990 article by Robert Bohler reporting on the death of Beverly Kay Schappaugh Lowndes County elementary school teacher found dead at Pine Grove Elementary School Valdosta Georgia" class="document-image"></a>
 
 > VALDOSTA — A Lowndes County elementary school teacher was found dead in her car early Monday morning on the grounds of the school where she works, and authorities have not yet decided whether she shot herself or was killed.
 >
@@ -102,7 +102,7 @@ Valdosta Daily Times
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF. This edition includes the obituary.*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-june-21-1990-article-closeup.jpg" alt="Valdosta Daily Times June 21 1990 article by Dean Poling reporting gun found beside body of Beverly Schappaugh belonged to the teacher minor injuries found on body investigation continues" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-june-21-1990-article-closeup.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-june-21-1990-article-closeup.jpg" alt="Valdosta Daily Times June 21 1990 article by Dean Poling reporting gun found beside body of Beverly Schappaugh belonged to the teacher minor injuries found on body investigation continues" class="document-image"></a>
 
 > A gun found beside the body of a Pine Grove Primary School fourth-grade teacher shot to death sometime late Sunday or early Monday belonged to the teacher, authorities said Wednesday.
 >
@@ -136,7 +136,7 @@ Valdosta Daily Times
 Valdosta Daily Times  
 *Source: VSU Archives and Special Collections - certified archival PDF. Obituary is included within this edition.*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-june-21-1990-obit-photocopy.jpg" alt="Valdosta Daily Times June 21 1990 obituary for Beverly Kay Schappaugh fourth grade teacher Pine Grove Elementary School Valdosta Georgia volunteer Soup Kitchen survived by Paul Schappaugh Mark Schappaugh Stephanie Marquis" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-june-21-1990-obit-photocopy.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-june-21-1990-obit-photocopy.jpg" alt="Valdosta Daily Times June 21 1990 obituary for Beverly Kay Schappaugh fourth grade teacher Pine Grove Elementary School Valdosta Georgia volunteer Soup Kitchen survived by Paul Schappaugh Mark Schappaugh Stephanie Marquis" class="document-image"></a>
 
 > BEVERLY K. SCHAPPAUGH
 >
@@ -164,7 +164,7 @@ Valdosta Daily Times
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-june-23-1990-article-closeup.jpg" alt="Valdosta Daily Times June 23 1990 article by Dean Poling reporting Beverly Schappaugh death still mystery black eye bruise shoulder scraped knees found on body Sheriff Carter investigating" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-june-23-1990-article-closeup.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-june-23-1990-article-closeup.jpg" alt="Valdosta Daily Times June 23 1990 article by Dean Poling reporting Beverly Schappaugh death still mystery black eye bruise shoulder scraped knees found on body Sheriff Carter investigating" class="document-image"></a>
 
 > A Lowndes County teacher found shot to death earlier this week was buried Friday afternoon as sheriff's officials continued their investigation into mysterious circumstances surrounding her death.
 >
@@ -196,7 +196,7 @@ Valdosta Daily Times
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-june-30-1990-article-closeup.jpg" alt="Valdosta Daily Times June 30 1990 article by Dean Poling reporting Superior Court Judge Arthur McLane issues gag order halting flow of information in Beverly Schappaugh death investigation" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-june-30-1990-article-closeup.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-june-30-1990-article-closeup.jpg" alt="Valdosta Daily Times June 30 1990 article by Dean Poling reporting Superior Court Judge Arthur McLane issues gag order halting flow of information in Beverly Schappaugh death investigation" class="document-image"></a>
 
 > As speculation mounts about the shooting death of a local schoolteacher nearly two weeks ago, no one is talking. Officials are bound by a Lowndes County Superior Court gag order.
 >
@@ -236,9 +236,9 @@ Valdosta Daily Times — Crimebusters/A Weekly Look At Unsolved Crimes In Lownde
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-august-16-1990-article-closeup-page1.jpg" alt="Valdosta Daily Times August 16 1990 Crimebusters article by Dean Poling page one Beverly Schappaugh schoolteacher found slain weekly look at unsolved crimes in Lowndes County" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-august-16-1990-article-closeup-page1.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-august-16-1990-article-closeup-page1.jpg" alt="Valdosta Daily Times August 16 1990 Crimebusters article by Dean Poling page one Beverly Schappaugh schoolteacher found slain weekly look at unsolved crimes in Lowndes County" class="document-image"></a>
 
-<img src="/assets/documents/beverly-schappaugh-vdt-august-16-1990-article-closeup-page2.jpg" alt="Valdosta Daily Times August 16 1990 Crimebusters article by Dean Poling page two continuation Beverly Schappaugh case gag order ballistics pending death certificate withheld" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-august-16-1990-article-closeup-page2.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-august-16-1990-article-closeup-page2.jpg" alt="Valdosta Daily Times August 16 1990 Crimebusters article by Dean Poling page two continuation Beverly Schappaugh case gag order ballistics pending death certificate withheld" class="document-image"></a>
 
 > Fourth-graders at Pine Grove Primary School were surprised when their teacher, Beverly K. Schappaugh, entered their classroom in the brightly colored costume of a clown.
 >
@@ -288,7 +288,7 @@ Valdosta Daily Times
 
 *Note: This edition reported the official ruling of Beverly Kay Schappaugh's death as homicide, three months after her body was discovered.*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-september-14-1990-photocopy.jpg" alt="Valdosta Daily Times September 14 1990 article by Dean Poling reporting official ruling of Beverly Kay Schappaugh death as murder Lowndes County Sheriff G Robert Carter homicide ruling after September 7 meeting" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-september-14-1990-photocopy.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-september-14-1990-photocopy.jpg" alt="Valdosta Daily Times September 14 1990 article by Dean Poling reporting official ruling of Beverly Kay Schappaugh death as murder Lowndes County Sheriff G Robert Carter homicide ruling after September 7 meeting" class="document-image"></a>
 
 > Almost three months after a Lowndes County teacher was found shot to death in the playground of Pine Grove Primary School, local law enforcement officials have determined she was murdered.
 >
@@ -336,7 +336,7 @@ Valdosta Daily Times
 *By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-circa-1992-photocopy.jpg" alt="Valdosta Daily Times circa 1992 article by Dean Poling reporting questions remain two years after death of Beverly Kay Schappaugh Lowndes County teacher found shot to death at Pine Grove Primary School case still unsolved" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-circa-1992-photocopy.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-circa-1992-photocopy.jpg" alt="Valdosta Daily Times circa 1992 article by Dean Poling reporting questions remain two years after death of Beverly Kay Schappaugh Lowndes County teacher found shot to death at Pine Grove Primary School case still unsolved" class="document-image"></a>
 
 > Though it has been more than two years since the death of a Lowndes County grade school teacher, there are more questions than answers.
 >
@@ -380,7 +380,7 @@ Valdosta Daily Times
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-january-9-1993-article-closeup.jpg" alt="Valdosta Daily Times January 9 1993 article by Dean Poling reporting new Lowndes County Sheriff Ashley Paulk intensifying investigation into Beverly Schappaugh murder detective Robert Atkins assigned full time" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-january-9-1993-article-closeup.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-january-9-1993-article-closeup.jpg" alt="Valdosta Daily Times January 9 1993 article by Dean Poling reporting new Lowndes County Sheriff Ashley Paulk intensifying investigation into Beverly Schappaugh murder detective Robert Atkins assigned full time" class="document-image"></a>
 
 > An unsolved investigation into the June 1990 death of a Pine Grove Primary School teacher is intensifying, Lowndes County Sheriff Ashley Paulk said Friday.
 >
@@ -416,7 +416,7 @@ Valdosta Daily Times
 *By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
 
-<img src="/assets/documents/beverly-schappaugh-vdt-circa-1993-photocopy.jpg" alt="Valdosta Daily Times circa 1993 article by Dean Poling reporting 2500 dollar reward offered by Lowndes County Sheriff Ashley Paulk in murder case of Beverly Kay Schappaugh with June 1990 crime scene photo from Lowndes County Sheriffs Department" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-vdt-circa-1993-photocopy.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-circa-1993-photocopy.jpg" alt="Valdosta Daily Times circa 1993 article by Dean Poling reporting 2500 dollar reward offered by Lowndes County Sheriff Ashley Paulk in murder case of Beverly Kay Schappaugh with June 1990 crime scene photo from Lowndes County Sheriffs Department" class="document-image"></a>
 
 > A $2,500 reward is being offered in the 1990 murder case of Beverly K. Schappaugh, a Lowndes County school teacher found shot to death in her car.
 >
@@ -461,7 +461,7 @@ Waycross Journal-Herald - Waycross, Georgia
 
 *Note: This letter was submitted to multiple media outlets on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The Waycross Journal-Herald was the only publication that printed it.*
 
-<img src="/assets/documents/beverly-schappaugh-waycross-journal-herald-june-21-2006-article-closeup.jpg" alt="Waycross Journal-Herald June 21 2006 letter to the editor Valdosta Murder Unsolved submitted by Paul Gregory Schappaugh Mark S Schappaugh Stephanie Schappaugh-Howell sixteenth anniversary Beverly Schappaugh murder" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-waycross-journal-herald-june-21-2006-article-closeup.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-waycross-journal-herald-june-21-2006-article-closeup.jpg" alt="Waycross Journal-Herald June 21 2006 letter to the editor Valdosta Murder Unsolved submitted by Paul Gregory Schappaugh Mark S Schappaugh Stephanie Schappaugh-Howell sixteenth anniversary Beverly Schappaugh murder" class="document-image"></a>
 
 > EDITOR, Journal-Herald:
 >
@@ -492,7 +492,7 @@ WALB News 10 - Albany/Valdosta, Georgia
 *Reporter: Alicia Eakin*  
 *Source: WALB News 10 website, June 22, 2006 - family-preserved copy. This is a printout of the web article from walb.com summarizing the broadcast report aired by WALB News 10 on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The original article remains available at <a href="https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/" target="_blank">https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/</a>. This preserved copy is retained should the URL be removed in the future.*
 
-<img src="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006-article-closeup.jpg" alt="WALB News 10 June 22 2006 web article by Alicia Eakin Georgia family still hopes for closure Beverly Schappaugh case remains open under gag order Captain JD Yeager Lowndes County Sheriff Department" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006-article-closeup.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006-article-closeup.jpg" alt="WALB News 10 June 22 2006 web article by Alicia Eakin Georgia family still hopes for closure Beverly Schappaugh case remains open under gag order Captain JD Yeager Lowndes County Sheriff Department" class="document-image"></a>
 
 > Lowndes County - The shooting death of a Lowndes County school teacher remains unsolved after nearly two decades. In June of 1990, Beverly Schappaugh was found dead in her car outside the Pine Grove Primary School where she taught fourth grade.
 >

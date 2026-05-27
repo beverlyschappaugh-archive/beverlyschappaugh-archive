@@ -23,7 +23,7 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 *Note: This copy is the official sealed copy issued at the county level at the time of the ruling. The state file number 1990GA000033892 was assigned upon filing with the Georgia State Archives in Atlanta and is confirmed in the 2025 vital records verification below.*
 
-<img src="/assets/documents/beverly-schappaugh-death-certificate-1990-redacted.jpg" alt="Georgia Certificate of Death for Beverly Kay Schappaugh state file number 1990GA000033892 date of death June 18 1990 manner of death homicide cause of death exsanguination due to gun shot wound to chest certified by Coroner Walter Wacter" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-death-certificate-1990-redacted.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-death-certificate-1990-redacted.jpg" alt="Georgia Certificate of Death for Beverly Kay Schappaugh state file number 1990GA000033892 date of death June 18 1990 manner of death homicide cause of death exsanguination due to gun shot wound to chest certified by Coroner Walter Wacter" class="document-image"></a>
 
 **Transcription of Key Fields:**
 
@@ -108,7 +108,7 @@ The release states that following careful consideration of evidence and witness 
 
 *Source: Original news release signed by G. Robert Carter, Sheriff of Lowndes County - held in family archive*
 
-<img src="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" alt="Lowndes County Sheriff Department official news release dated September 7 1990 signed by Sheriff G Robert Carter officially ruling the death of Beverly K Schappaugh as murder" class="document-image">
+<a href="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" alt="Lowndes County Sheriff Department official news release dated September 7 1990 signed by Sheriff G Robert Carter officially ruling the death of Beverly K Schappaugh as murder" class="document-image"></a>
 
 > LOWNDES COUNTY SHERIFF'S DEPT.
 > P. O. BOX 667 • VALDOSTA, GEORGIA 31603-0667 • (912) 333-5149
