@@ -39,12 +39,35 @@ Valdosta Daily Times
 
 ---
 
-**June 19, 1990**
-*"Lowndes Teacher Found Shot to Death"*
-Florida Times-Union - Jacksonville, Florida
+**June 19, 1990**  
+*"Lowndes Teacher Found Shot to Death"*  
+Florida Times-Union - Jacksonville, Florida  
+*From staff*  
 *Source: Family-preserved scan - original newspaper clipping. This report documents coverage of the case beyond the Valdosta regional press.*
 
-<a href="/assets/documents/beverly-schappaugh-ftu-june-19-1990-photocopy.jpg" target="_blank">View Document →</a>
+<img src="/assets/documents/beverly-schappaugh-ftu-june-19-1990-photocopy.jpg" alt="Florida Times-Union Jacksonville Florida June 19 1990 article reporting on the death of Beverly Schappaugh Lowndes County teacher found shot to death at Pine Grove Elementary School Valdosta Georgia" class="document-image">
+
+> VALDOSTA, Ga. — Beverly Schappaugh, 48, a Lowndes County fourth-grade teacher, was found dead in her car yesterday with a bullet wound in the left side of her chest, police officials said.
+>
+> Lying in the passenger seat next to her body was a .38-caliber pistol, Lowndes County Detective Capt. Billy Selph said.
+>
+> Selph said the body was scheduled to be examined today at the State Crime Lab in Atlanta. "I really can't tell you what we've got until we get the results of the reports from the crime lab," he said.
+>
+> Her late model Nissan was found parked near a wooded area on the northeast edge of the playground of the Pine Grove Elementary School where she worked, Selph said.
+>
+> Selph said a man, who asked not to be identified, found the body about 7 a.m. while he was walking his dog.
+>
+> School principal Bernard Perry said the last day of work for teachers was June 6, but he thought Ms. Schappaugh had returned to the school to begin preparation for next fall's school year.
+>
+> He said Ms. Schappaugh, who is divorced and has three adult children, had been seen in her classroom at the school Sunday afternoon.
+>
+> Perry, who knew Ms. Schappaugh for more than 14 years, described her as being a thorough, caring teacher.
+>
+> "The students really loved her, and some of the parents called me today and asked how they could tell their children that their teacher was dead," Perry said.
+>
+> Ms. Schappaugh had just completed her first year teaching at the Pine Grove Elementary School. Previously, she taught fourth-graders for nine years at the Hahira Elementary School, Perry said.
+
+<a href="/assets/documents/beverly-schappaugh-ftu-june-19-1990-photocopy.jpg" target="_blank">View Full Document →</a>
 
 ---
 
