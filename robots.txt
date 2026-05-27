@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://beverlyschappaugh-archive.github.io/sitemap.xml
+Sitemap: https://beverlyschappaugh-archive.github.io/image-sitemap.xml
