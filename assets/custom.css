@@ -29,6 +29,10 @@ a.document-link { display: block; text-align: center; }
   .site-nav .menu-icon { display: block; }
   h1 { font-size: 1.4rem; }
   img { max-width: 100%; }
-  img.document-image { max-width: 100%; }
+  img.document-image { max-width: 100%; margin-left: auto; margin-right: auto; box-sizing: border-box; }
   blockquote { font-size: 0.95rem; margin-left: 10px; margin-right: 10px; }
+}
+@media screen and (max-width: 600px) {
+  .wrapper { padding-left: 15px; padding-right: 15px; }
+  .page-content { padding-left: 0; padding-right: 0; }
 }
