@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Beverly Kay Schappaugh - Memorial Archive
+title: Beverly Schappaugh
 ---
 # Beverly Kay Dexter Schappaugh
 
