@@ -361,12 +361,37 @@ Valdosta Daily Times
 
 ---
 
-**January 9, 1993**
-*"Teacher's Death Gets Another Look"*
-Valdosta Daily Times
+**January 9, 1993**  
+*"Teacher's Death Gets Another Look"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/beverly-schappaugh-vdt-january-9-1993.pdf" target="_blank">View Document →</a>
+> An unsolved investigation into the June 1990 death of a Pine Grove Primary School teacher is intensifying, Lowndes County Sheriff Ashley Paulk said Friday.
+>
+> Ultimately, Paulk hopes the investigation will lead to an arrest in the murder of Beverly K. Schappaugh, who was found shot to death in her gray 1987 Nissan Sentra parked on the school's property.
+>
+> "The public had a lot of questions. It was a highly visible case and I promised during my campaign to look at it real hard," Paulk told The Valdosta Daily Times.
+>
+> "We hope to sit down with the two detectives who handled the case and see if there is anything that may have been overlooked. Or, possibly, get a new angle on it," Paulk said.
+>
+> A Lowndes County sheriff's detective, Robert Atkins, will be assigned to the case full time in about a week.
+>
+> "It's not being critical of the previous administration," Paulk said. "But I want to take another look at it."
+>
+> Ms. Schappaugh, 48, was last seen alive, working at Pine Grove Primary, on the Sunday afternoon of June 17, 1990.
+>
+> At 6:45 a.m. June 18, a man walking his dog found Ms. Schappaugh lying dead in her car.
+>
+> The Nissan Sentra was parked in the eastern corner of Pine Grove's playground. Next to her body, in the passenger seat, was a .38-caliber handgun. It was registered under Ms. Schappaugh's name.
+>
+> A bullet wound in the left side of her chest was the cause of death, according to Georgia State Crime Lab autopsy reports. The autopsy reports also revealed she suffered a black eye, a bruise on one of her shoulders and both of her knees were scraped.
+>
+> Though she was buried on June 22, 1990, it would be several months before authorities ruled her death a homicide.
+>
+> At the time of her death, Ms. Schappaugh, described by colleagues as a "very dedicated teacher" had just completed her first year teaching at Pine Grove Primary, located off Bemiss Road. She had been employed by the Lowndes County school system since 1979, teaching at Hahira Elementary School for 10 years.
+
+<a href="/assets/documents/beverly-schappaugh-vdt-january-9-1993.pdf" target="_blank">View Full Document →</a>
 
 ---
 
