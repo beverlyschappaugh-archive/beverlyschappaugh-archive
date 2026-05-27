@@ -469,11 +469,17 @@ Waycross Journal-Herald - Waycross, Georgia
 
 ---
 
-**June 22, 2006**
-*"Georgia Family Still Hopes for Closure"*
-WALB News 10 - Albany/Valdosta, Georgia
-Broadcast report confirming the case remains open and under a gag order as of 2006.
-*Source: WALB News 10, June 22, 2006 - archived web report, family-preserved copy*
+**June 22, 2006**  
+*"Georgia Family Still Hopes for Closure"*  
+WALB News 10 - Albany/Valdosta, Georgia  
+*Reporter: Alicia Eakin*  
+*Source: WALB News 10 website, June 22, 2006 - family-preserved copy. This is a printout of the web article from walb.com summarizing the broadcast report aired by WALB News 10 on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The original article remains available at https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/. This preserved copy is retained should the URL be removed in the future.*
 
-<a href="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006.pdf" target="_blank">View Document →</a>
+> Lowndes County - The shooting death of a Lowndes County school teacher remains unsolved after nearly two decades. In June of 1990, Beverly Schappaugh was found dead in her car outside the Pine Grove Primary School where she taught fourth grade.
+>
+> The case remains open and under a gag order, as investigators are hoping to obtain more information in the future. "We don't want to close out a case and then evidence comes up 10 years from now that could possibly be something that we missed, never knew about, or wasn't available to us at the time where we could convict someone in the case. We want that opportunity," said Captain J.D. Yeager of the Lowndes County Sheriff's Department.
+>
+> Family members and friends are urging Lowndes County Law Enforcement Agencies and State agencies to not forget Ms. Schappaugh's death and to continue the investigation.
+
+<a href="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006.pdf" target="_blank">View Full Document →</a>
 
