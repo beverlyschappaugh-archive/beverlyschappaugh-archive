@@ -221,12 +221,49 @@ Valdosta Daily Times
 
 ---
 
-**August 16, 1990**
-*"Schoolteacher Found Slain"*
-Valdosta Daily Times
+**August 16, 1990**  
+*"Schoolteacher Found Slain"*  
+Valdosta Daily Times — Crimebusters/A Weekly Look At Unsolved Crimes In Lowndes County  
+*By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/beverly-schappaugh-vdt-august-16-1990.pdf" target="_blank">View Document →</a>
+> Fourth-graders at Pine Grove Primary School were surprised when their teacher, Beverly K. Schappaugh, entered their classroom in the brightly colored costume of a clown.
+>
+> Students were studying a series of clown stories, and instead of merely giving a reading assignment, Ms. Schappaugh added a dash of fun to the lesson. She wanted to make the series more "life-like."
+>
+> "A very dedicated teacher" is how Ms. Schappaugh's colleagues described her. She was the type of teacher who worked extra hours during the weekends.
+>
+> Quite often, she spent those hours in her Pine Grove Primary classroom, a few miles north of the Valdosta city limits off Bemiss Road.
+>
+> Pine Grove Principal Bernard Perry said Ms. Schappaugh was probably working at the school on Sunday afternoon, June 17.
+>
+> The next day when a man, while walking his dog, passed by the school at about 6:45 a.m., Ms. Schappaugh, 48, was lying in her gray 1987 Nissan Sentra. There was a bullet wound in the left side of her chest. She already was dead.
+>
+> Despite public interest in the case, local law enforcement officials remain stumped as to what exactly happened between the hours of that late Sunday night and early Monday morning.
+>
+> At the end of June, Superior Court Judge Arthur McLane issued an unprecedented gag order to halt the flow of information on the case. With rumors and speculations abounding in the community, law enforcement officials can neither deny nor confirm many reports.
+>
+> Nonetheless, some facts are known in the case.
+>
+> When Ms. Schappaugh's body was found, her car was parked in an eastern corner of Pine Grove's playground. Next to her body, in the passenger seat, was a .38-caliber handgun.
+>
+> The gun was registered under Ms. Schappaugh's name, but forensic and ballistic reports were not complete before the gag order.
+>
+> Autopsy reports from the Georgia State Crime Laboratory in Atlanta show Ms. Schappaugh died from internal bleeding caused by a single gunshot wound in the area of her left breast.
+>
+> The autopsy also revealed several minor injuries to her body. She had a black eye, a bruise on one of her shoulders and both knees were scraped.
+>
+> Before the gag order was imposed, authorities were holding her death certificate, saying it would not be issued until the cause of her death was determined.
+>
+> Ms. Schappaugh was buried June 22.
+>
+> She had just completed her first year teaching at Pine Grove Primary and was employed by the Lowndes County school system since 1979. She taught at Hahira Elementary School for 10 years.
+>
+> Even though it is not customary to issue a gag order in a pending investigation, agreed State Attorney General Michael J. Bowers, he did say "a judge can issue an order in the interest of serving justice."
+>
+> Anyone with information about the death of Ms. Schappaugh is asked to contact local law enforcement authorities.
+
+<a href="/assets/documents/beverly-schappaugh-vdt-august-16-1990.pdf" target="_blank">View Full Document →</a>
 
 ---
 
