@@ -317,10 +317,45 @@ Valdosta Daily Times
 
 ---
 
-**Undated - approximate 1992**
-*"Questions Remain Two Years After Teacher's Death"*
-Valdosta Daily Times
+**Undated - approximate 1992**  
+*"Questions Remain Two Years After Teacher's Death"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
+
+<img src="/assets/documents/beverly-schappaugh-vdt-circa-1992-photocopy.jpg" alt="Valdosta Daily Times circa 1992 article by Dean Poling reporting questions remain two years after death of Beverly Kay Schappaugh Lowndes County teacher found shot to death at Pine Grove Primary School case still unsolved" class="document-image">
+
+> Though it has been more than two years since the death of a Lowndes County grade school teacher, there are more questions than answers.
+>
+> Lowndes County Sheriff's Department authorities say the 1990 shooting death still is being investigated. But Detective Capt. Billy Selph said it's been a long time since investigators have found any new clues or information in the case of Beverly K. Schappaugh.
+>
+> "It's still an active case," Selph said last week, but no one has ever been charged after Ms. Schappaugh was found dead Monday, June 18, 1990, on the grounds of Pine Grove Primary School, where she worked.
+>
+> She was a fourth-grade teacher and had just finished her first year there. The last sighting authorities have of her was at the school finishing up some work before the summer break.
+>
+> One of her supervisors said it was quite common to see the 48-year-old teacher working on her days off and staying late after classes were finished.
+>
+> Her colleagues described her as a "very dedicated teacher."
+>
+> Ms. Schappaugh was hired by the Lowndes County school system in 1979 and taught at Hahira Elementary School for 10 years before going to Pine Grove Primary.
+>
+> On one occasion to teach a lesson, she dressed the part in costume. It was one of her efforts to get her students more involved.
+>
+> At 6:45 a.m. June 18, a man walking his dog passed the school off Bemiss Road. He found Ms. Schappaugh lying in her gray 1987 Nissan Sentra parked on the school playground area.
+>
+> She was dead with a bullet wound in the left side of her chest.
+>
+> Law officials have said they are not sure what happened between that Sunday evening and that Monday morning.
+>
+> Her car was found in an eastern corner of Pine Grove's playground. Next to her body, in the passenger seat, was a .38-caliber handgun.
+>
+> She also had a black eye, a bruise on one of her shoulders and both knees were scraped. Her father, John Dexter of Clearview, Fla., said in a 1990 interview that the wounds were so bad that her coffin remained shut during her funeral.
+>
+> On Sept. 13, 1990, authorities officially ruled her death a homicide.
+>
+> By the end of June 1990, Southern Circuit Court Judge Arthur McLane had put a gag order on the case. He later lifted the gag order, but there never has been any explanation as to the reason for it.
+>
+> Many questions still surround this case, but authorities continue to say little about it. Former friends of Ms. Schappaugh have contacted The Valdosta Daily Times to ask about it. Why was she killed? Why is her death still unsolved? Why are authorities so reticent about it? — the same questions that were asked more than two years ago.
 
 <a href="/assets/documents/beverly-schappaugh-vdt-circa-1992-photocopy.jpg" target="_blank">View Document →</a>
 
