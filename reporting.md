@@ -395,10 +395,45 @@ Valdosta Daily Times
 
 ---
 
-**Undated - approximate 1993**
-*"Reward Offered In Murder Case"*
-Valdosta Daily Times
+**Undated - approximate 1993**  
+*"Reward Offered In Murder Case"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
+
+<img src="/assets/documents/beverly-schappaugh-vdt-circa-1993-photocopy.jpg" alt="Valdosta Daily Times circa 1993 article by Dean Poling reporting 2500 dollar reward offered by Lowndes County Sheriff Ashley Paulk in murder case of Beverly Kay Schappaugh with June 1990 crime scene photo from Lowndes County Sheriffs Department" class="document-image">
+
+> A $2,500 reward is being offered in the 1990 murder case of Beverly K. Schappaugh, a Lowndes County school teacher found shot to death in her car.
+>
+> On Friday, Lowndes County Sheriff Ashley Paulk offered the reward for information leading to an arrest and conviction in Ms. Schappaugh's death on Sunday, June 17, 1990.
+>
+> On June 18, 1990, she was found dead in her gray, 1987 Nissan Sentra parked in Pine Grove Primary School's playground.
+>
+> Paulk is offering the money out of his own pocket, but the sheriff's department is applying for a governor's reward grant to cover the amount, authorities said.
+>
+> Several witnesses say they saw Ms. Schappaugh, 48, of Valdosta working at Pine Grove Primary, off Bemiss Road, that Sunday.
+>
+> Authorities recently acquired new leads in the investigation - leads suggesting other people were at the playground that day who may have seen Ms. Schappaugh with someone or have other important information, Paulk said.
+>
+> "A small piece of this puzzle is missing that can result in the case being solved and in collection of the reward," Paulk said.
+>
+> Apparently, Ms. Schappaugh was beaten, then shot that day, authorities say.
+>
+> At 6:46 a.m. on June 18, a man walking his dog found Ms. Schappaugh lying dead in her car. Her Nissan Sentra was parked in the eastern corner of Pine Grove's playground. Next to her body, in the passenger's seat, was a .38-caliber handgun.
+>
+> Autopsy reports showed she died of a single gunshot wound to the left side of her chest. Ballistic tests conducted at the State Crime Lab in Atlanta confirmed the handgun fired the fatal shot, authorities said.
+>
+> Though she was buried on June 22, 1990, it would be several months before authorities ruled her death a homicide. Since then, Lowndes County Sheriff's Department detectives have put many man-hours into the case, said Detective Capt. Billy Selph.
+>
+> In January, Paulk intensified the investigation by assigning a detective to the case fulltime.
+>
+> At the time of her death, Ms. Schappaugh had just completed her first year of teaching at Pine Grove Primary. Colleagues described her as a "dedicated teacher."
+>
+> She had been employed by the Lowndes County school system since 1979, teaching at Hahira Elementary School her first 10 years.
+>
+> Anyone with information regarding this case may call the Lowndes County Sheriff's Department Detective Division at (912) 333-5138.
+
+*Photo caption: This June 1990 photo, as taken by the Lowndes County Sheriff's Department, shows the scene where Beverly K. Schappaugh was found dead in her 1987 Nissan Sentra. $2,500 reward is now being offered for information relating to the teacher's death.*
 
 <a href="/assets/documents/beverly-schappaugh-vdt-circa-1993-photocopy.jpg" target="_blank">View Document →</a>
 
