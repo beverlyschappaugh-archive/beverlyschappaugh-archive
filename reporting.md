@@ -439,13 +439,33 @@ Valdosta Daily Times
 
 ---
 
-**June 21, 2006**
-*Letter to the Editor - "Valdosta Murder Unsolved"*
-Waycross Journal-Herald - Waycross, Georgia
-Submitted by family members of Beverly Kay Schappaugh on the sixteenth anniversary of her death. The letter documents the family's dissatisfaction with the progress of the murder investigation and questions the lack of press coverage of the unsolved case.
+**June 21, 2006**  
+*Letter to the Editor - "Valdosta Murder Unsolved"*  
+Waycross Journal-Herald - Waycross, Georgia  
 *Source: Waycross Journal-Herald, June 21, 2006 - family-preserved copy*
 
-<a href="/assets/documents/beverly-schappaugh-waycross-journal-herald-june-21-2006.pdf" target="_blank">View Document →</a>
+*Note: This letter was submitted to multiple media outlets on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The Waycross Journal-Herald was the only publication that printed it.*
+
+> EDITOR, Journal-Herald:
+>
+> On this the sixteenth anniversary of our mother's (Beverly Schappaugh) murder in Valdosta, Ga., we are submitting this letter as notice of our family's dissatisfaction with the progress of the murder investigation. We also question the Valdosta Daily Times' lack of coverage of this unsolved murder case.
+>
+> It would appear that local law enforcement agencies, along with the district attorney and state agencies, have long ago concluded they have insufficient evidence to prosecute this murder investigation, while having amassed a wealth of damning evidence to suggest probable cause against at least one individual.
+>
+> While we understand the state's hesitation to prosecute this case with the information and case evidence on-hand, we cannot understand why the local and regional press continues to ignore this unsolved murder in Lowndes County.
+>
+> We encouraged and were excited by the campaign of Sheriff Pro-Tem Paulk back in the early 90s; but once he was elected he relegated our mother's murder to the back burner. If you remember, one of his campaign promises was to resolve and find the culprit responsible for our mother's murder.
+>
+> Since his time in office Sheriff Paulk has ignored his campaign promise to resolve this heinous crime against a Lowndes County teacher. Our family hopes that local law enforcement and state agencies will not forget our mother's death and will do everything in their power to prosecute those responsible.
+>
+> Paul Gregory Schappaugh
+> Mark S. Schappaugh
+> Stephanie Schappaugh-Howell
+> Houston, Texas
+
+*Note: The Waycross Journal-Herald printed a single address for all three signatories. At the time of publication, Paul Gregory Schappaugh resided in Houston, Texas; Mark S. Schappaugh resided in Atlanta, Georgia; and Stephanie Schappaugh-Howell resided in Fitzgerald, Georgia.*
+
+<a href="/assets/documents/beverly-schappaugh-waycross-journal-herald-june-21-2006.pdf" target="_blank">View Full Document →</a>
 
 ---
 
