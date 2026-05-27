@@ -267,12 +267,51 @@ Valdosta Daily Times — Crimebusters/A Weekly Look At Unsolved Crimes In Lownde
 
 ---
 
-**September 14, 1990**
-*"Teacher's Death: Murder"*
-Valdosta Daily Times
+**September 14, 1990**  
+*"Teacher's Death: Murder"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan - original physical newspaper page photographed and preserved by the family. This edition is not present in the Valdosta State University microfilm archive. VSU Archives staff confirmed the absence after multiple searches. No institutional explanation for the missing issue has been provided. This family scan is the sole known preserved copy of this edition.*
 
 *Note: This edition reported the official ruling of Beverly Kay Schappaugh's death as homicide, three months after her body was discovered.*
+
+<img src="/assets/documents/beverly-schappaugh-vdt-september-14-1990-photocopy.jpg" alt="Valdosta Daily Times September 14 1990 article by Dean Poling reporting official ruling of Beverly Kay Schappaugh death as murder Lowndes County Sheriff G Robert Carter homicide ruling after September 7 meeting" class="document-image">
+
+> Almost three months after a Lowndes County teacher was found shot to death in the playground of Pine Grove Primary School, local law enforcement officials have determined she was murdered.
+>
+> And the victim's father says the investigation may center on an "influential" person in the Valdosta community.
+>
+> Lowndes County Sheriff G. Robert Carter said murder has been listed as the cause of death on Beverly Kay Schappaugh's death certificate.
+>
+> "We've been investigating this case all along as a possible homicide," he said. "Now it's official."
+>
+> Carter said his department has waited for forensics and ballistics reports from the Georgia State Crime Laboratory since the 48-year-old's body was found in her gray 1987 Nissan Sentra with a bullet wound to the left side of her chest on the morning of June 18.
+>
+> Carter said a backlog of cases has slowed the crime lab's routine during the past few months. But after a Sept. 7 meeting with Walter Wacter, Lowndes coroner, members of the Southern Judicial Circuit's district attorney's office and sheriff's department investigators, Carter said homicide was the only possible conclusion.
+>
+> Carter could not comment on possible suspects or how the investigation is progressing because of a gag order placed on the case in late June by Superior Court Judge Arthur McLane. Matters of public record, such as the death certificate, may be discussed, but the gag order prohibits officials from discussing other aspects of the case.
+>
+> John Dexter of Clearview, Fla., who is Ms. Schappaugh's father, is not bound by the gag order.
+>
+> Dexter said Thursday during a telephone conversation with The Valdosta Daily Times: "I think they (the sheriff's department) have done very well, but now I think they need to get on the stick, even if it does bring in an influential member of your (the Valdosta) community."
+>
+> He said, to his understanding, there is a possibility of two suspects, but he would not comment on their identities.
+>
+> Dexter also disagreed with autopsy reports which stated his daughter suffered, in addition to the gunshot wound, only superficial injuries to her eye, shoulders and knees.
+>
+> He said she was beaten so bad, her coffin was closed during her June 22 funeral. "Her face was so badly bruised, I would not have known her if I'd seen her on the street," he said.
+>
+> Ms. Schappaugh was a fourth grade teacher at Pine Grove Primary. A 10-year employee of the Lowndes County school system, it is believed she was finishing up some school work on the afternoon of Sunday, June 17.
+>
+> About 6:45 a.m. the next day, a man walking his dog came across Ms. Schappaugh's car parked in an eastern corner of Pine Grove's playground. Inside the vehicle, Ms. Schappaugh was found dead. A .38-caliber handgun, registered in her name, lay next to her in the passenger seat. Despite the lack of ballistic reports, law officials believe her gun was used in the shooting.
+>
+> So far, no arrests have been made in connection with the murder.
+>
+> "We've known all along this has been a murder," Dexter said. "Beverly's mother and sisters have been very affected by this. Her mother will never be the same. It's different for a man, but I'd rather not be living," he said.
+>
+> "If I had to go around now, it's different."
+>
+> Authorities ask anyone with information about this case to contact the Lowndes County Sheriff's Department at 333-5138.
 
 <a href="/assets/documents/beverly-schappaugh-vdt-september-14-1990-photocopy.jpg" target="_blank">View Document →</a>
 
