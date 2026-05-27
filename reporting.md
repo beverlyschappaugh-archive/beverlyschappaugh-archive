@@ -71,12 +71,25 @@ Florida Times-Union - Jacksonville, Florida
 
 ---
 
-**June 19, 1990**
-*"Lowndes Teacher Is Found Dead"*
-Atlanta Journal-Constitution - Atlanta, Georgia
+**June 19, 1990**  
+*"Lowndes Teacher Is Found Dead"*  
+Atlanta Journal-Constitution - Atlanta, Georgia  
+*By Robert Bohler, Special to the Journal-Constitution*  
 *Source: Family-preserved scan - original newspaper clipping photographed from Find a Grave memorial contribution. This report documents coverage of the case in the Atlanta regional press.*
 
-<a href="/assets/documents/beverly-schappaugh-ajc-june-19-1990-photocopy.jpg" target="_blank">View Document →</a>
+<img src="/assets/documents/beverly-schappaugh-ajc-june-19-1990-photocopy.jpg" alt="Atlanta Journal-Constitution June 19 1990 article by Robert Bohler reporting on the death of Beverly Kay Schappaugh Lowndes County elementary school teacher found dead at Pine Grove Elementary School Valdosta Georgia" class="document-image">
+
+> VALDOSTA — A Lowndes County elementary school teacher was found dead in her car early Monday morning on the grounds of the school where she works, and authorities have not yet decided whether she shot herself or was killed.
+>
+> Beverly Kay Schappaugh, 48, died of a single gunshot wound to the chest, Lowndes County Sheriff's Department investigators said Monday. Detective Capt. Billy Selph said a .38-caliber pistol with a spent cartridge was found on the front seat beside Ms. Schappaugh's body.
+>
+> Lowndes County Coroner Walter Wacter said no time of death has been established, and Captain Selph said he expects an autopsy today at the State Crime Lab in Atlanta and a further examination of evidence collected at the scene to provide some answers.
+>
+> The body was discovered shortly before 7 a.m. Monday by a Moody Air Force Base serviceman who was walking his dog, Mr. Wacter said. The sergeant also had spotted Ms. Schappaugh's gray late-model Nissan Sentra on the school grounds at about 5:30 p.m. Sunday, Mr. Wacter said.
+>
+> Pine Grove Elementary School is about six miles north of Valdosta near Moody Air Force Base on Georgia 129.
+
+<a href="/assets/documents/beverly-schappaugh-ajc-june-19-1990-photocopy.jpg" target="_blank">View Full Document →</a>
 
 ---
 
