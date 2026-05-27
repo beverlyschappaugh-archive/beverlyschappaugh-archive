@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Official Records
+description: "Official documents in the Beverly Schappaugh case — Georgia death certificate, Lowndes County Sheriff press release ruling her 1990 death a homicide."
 ---
 # Official Records
 

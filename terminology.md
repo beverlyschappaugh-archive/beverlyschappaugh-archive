@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Terminology
+description: "Definitions and context for legal, medical, and investigative terms used in the Beverly Schappaugh unsolved homicide case documentation."
 ---
 
 # Terminology and Definitions Used on This Site

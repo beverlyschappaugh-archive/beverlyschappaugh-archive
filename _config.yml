@@ -12,3 +12,12 @@ header_pages:
   - terminology.md
 plugins:
   - jekyll-sitemap
+
+# SEO and social sharing
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /beverly-schappaugh-memorial-portrait.jpg
+      lang: en
+      author: Beverly Schappaugh Memorial Archive

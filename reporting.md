@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Public Reporting
+description: "News coverage of the Beverly Schappaugh homicide — Valdosta Daily Times, Atlanta Journal-Constitution, Florida Times-Union, and WALB-TV articles from 1990 to 2006."
 ---
 
 # Public Reporting Record

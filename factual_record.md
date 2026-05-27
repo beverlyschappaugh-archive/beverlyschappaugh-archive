@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Factual Record
+description: "Verified factual record of Beverly Kay Schappaugh — timeline of events, key individuals, and documented facts in this unsolved 1990 Valdosta, Georgia homicide."
 ---
 
 # Factual Record

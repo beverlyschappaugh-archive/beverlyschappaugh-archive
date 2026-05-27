@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Beverly Schappaugh Memorial
+description: "A permanent public record of the life and unsolved homicide of Beverly Kay Dexter Schappaugh, killed June 18, 1990, Valdosta, Georgia. Case status: unsolved."
 ---
 # Beverly Kay Dexter Schappaugh
 
