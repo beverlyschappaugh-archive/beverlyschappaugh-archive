@@ -489,7 +489,7 @@ Waycross Journal-Herald - Waycross, Georgia
 *"Georgia Family Still Hopes for Closure"*  
 WALB News 10 - Albany/Valdosta, Georgia  
 *Reporter: Alicia Eakin*  
-*Source: WALB News 10 website, June 22, 2006 - family-preserved copy. This is a printout of the web article from walb.com summarizing the broadcast report aired by WALB News 10 on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The original article remains available at [https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/](https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/). This preserved copy is retained should the URL be removed in the future.*
+*Source: WALB News 10 website, June 22, 2006 - family-preserved copy. This is a printout of the web article from walb.com summarizing the broadcast report aired by WALB News 10 on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The original article remains available at <a href="https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/" target="_blank">https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/</a>. This preserved copy is retained should the URL be removed in the future.*
 
 <img src="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006-article-closeup.jpg" alt="WALB News 10 June 22 2006 web article by Alicia Eakin Georgia family still hopes for closure Beverly Schappaugh case remains open under gag order Captain JD Yeager Lowndes County Sheriff Department" class="document-image">
 
