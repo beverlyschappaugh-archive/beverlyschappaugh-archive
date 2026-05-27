@@ -183,12 +183,41 @@ Valdosta Daily Times
 
 ---
 
-**June 30, 1990**
-*"Judge 'Gags' Death Probe"*
-Valdosta Daily Times
+**June 30, 1990**  
+*"Judge 'Gags' Death Probe"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/beverly-schappaugh-vdt-june-30-1990.pdf" target="_blank">View Document →</a>
+> As speculation mounts about the shooting death of a local schoolteacher nearly two weeks ago, no one is talking. Officials are bound by a Lowndes County Superior Court gag order.
+>
+> Superior Court Judge Arthur McLane issued the order Wednesday to halt the flow of information about the death of Beverly K. Schappaugh, 48, who was found shot to death in her car about 6:45 a.m. June 18.
+>
+> McLane told The Valdosta Daily Times Friday the gag order is "not customary" in an ongoing investigation. When asked why it was issued, he said he could not answer without violating his own order.
+>
+> State Attorney General Michael J. Bowers also said a gag order is not standard practice in an investigation but, "a judge can issue an order in the interest of serving justice."
+>
+> Bowers would not comment on this particular case.
+>
+> Perry Michael, a spokesman for the attorney general's office, would only say "if a judge has issued it, it must be the law."
+>
+> Lowndes County Sheriff G. Robert Carter said under the order, neither he nor any of his detectives can comment on their investigation into the death.
+>
+> Although autopsy reports released last week by the Georgia State Crime Laboratory in Atlanta show Ms. Schappaugh died of internal bleeding from a single gunshot wound in the area of her left breast, no death certificate has been issued, authorities say.
+>
+> Ms. Schappaugh's funeral was June 22, but the death certificate will not be issued until a cause of death has been determined, authorities say.
+>
+> Officials have not said whether or not she was murdered. Found beside her, in the car's passenger seat, was a .38-caliber pistol registered to Ms. Schappaugh.
+>
+> Authorities are awaiting the results from ballistics tests to determine if it is the same weapon used in her death.
+>
+> Ms. Schappaugh was found dead by a man walking his dog on June 18. She was in her gray 1987 Nissan Sentra parked in the eastern corner of Pine Grove Primary School's playground on Bemiss Road.
+>
+> She worked at Pine Grove for one school year.
+>
+> Crime lab autopsy reports also reveal that Ms. Schappaugh had several minor injuries, in addition to the gunshot wound, which included a black eye, a bruise on one shoulder and scrapes to both knees.
+
+<a href="/assets/documents/beverly-schappaugh-vdt-june-30-1990.pdf" target="_blank">View Full Document →</a>
 
 ---
 
