@@ -458,9 +458,9 @@ Waycross Journal-Herald - Waycross, Georgia
 >
 > Since his time in office Sheriff Paulk has ignored his campaign promise to resolve this heinous crime against a Lowndes County teacher. Our family hopes that local law enforcement and state agencies will not forget our mother's death and will do everything in their power to prosecute those responsible.
 >
-> Paul Gregory Schappaugh
-> Mark S. Schappaugh
-> Stephanie Schappaugh-Howell
+> Paul Gregory Schappaugh  
+> Mark S. Schappaugh  
+> Stephanie Schappaugh-Howell  
 > Houston, Texas
 
 *Note: The Waycross Journal-Herald printed a single address for all three signatories. At the time of publication, Paul Gregory Schappaugh resided in Houston, Texas; Mark S. Schappaugh resided in Atlanta, Georgia; and Stephanie Schappaugh-Howell resided in Fitzgerald, Georgia.*
