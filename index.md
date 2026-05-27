@@ -4,7 +4,7 @@ title: Beverly Kay Schappaugh - Memorial Archive
 ---
 # Beverly Kay Dexter Schappaugh
 
-![Beverly Kay Dexter Schappaugh](beverly-schappaugh-memorial-portrait.jpg)
+<img src="beverly-schappaugh-memorial-portrait.jpg" alt="Beverly Kay Dexter Schappaugh memorial portrait born August 25 1941 Roaring Spring Pennsylvania elementary school teacher Valdosta Georgia murdered June 18 1990 Pine Grove Elementary School unsolved homicide" class="document-image">
 
 <p style="text-align: center;"><strong>August 25, 1941 - June 18, 1990</strong> <em>Valdosta, Georgia</em></p>
 
