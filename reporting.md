@@ -153,12 +153,33 @@ Valdosta Daily Times
 
 ---
 
-**June 23, 1990**
-*"Teacher's Death Still Mystery"*
-Valdosta Daily Times
+**June 23, 1990**  
+*"Teacher's Death Still Mystery"*  
+Valdosta Daily Times  
+*By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/beverly-schappaugh-vdt-june-23-1990.pdf" target="_blank">View Document →</a>
+> A Lowndes County teacher found shot to death earlier this week was buried Friday afternoon as sheriff's officials continued their investigation into mysterious circumstances surrounding her death.
+>
+> Beverly K. Schappaugh, 48, of Valdosta was found dead in her vehicle, parked in the playground beside her workplace Pine Grove Primary School, early Monday morning.
+>
+> She died from internal bleeding caused by a single gunshot wound to the left breast area. A gun belonging to Ms. Schappaugh was found beside her in the car's passenger seat however it has not yet been determined if this was the gun used in her death.
+>
+> Lowndes County Sheriff's Department officials are still attempting to determine the motive behind Ms. Schappaugh's death.
+>
+> Officials know she was shot sometime between 5 p.m. Sunday and early Monday morning.
+>
+> They believe Ms. Schappaugh went to Pine Grove Primary to finish some school work that afternoon.
+>
+> In addition to the fatal gunshot wound, there were several minor injuries on her body. According to reports from the Georgia State Crime Lab in Atlanta, she had a black eye, a bruise on one of her shoulders and both knees were scraped.
+>
+> Lowndes County Sheriff G. Robert Carter said Friday the department's detective bureau is investigating every angle of the shooting but would not comment on the case's status.
+>
+> Anyone in the vicinity of Pine Grove Primary on Bemiss Road from Sunday afternoon to Monday morning with any information regarding this case call 333-5138.
+>
+> Colleagues and friends described Ms. Schappaugh as a dedicated teacher who worked in the Lowndes County school system since 1979. She was a teacher at Hahira Elementary from 1979-1989 and taught at Pine Grove Primary for the past year.
+
+<a href="/assets/documents/beverly-schappaugh-vdt-june-23-1990.pdf" target="_blank">View Full Document →</a>
 
 ---
 
