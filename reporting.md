@@ -14,9 +14,28 @@ Archival PDFs were obtained from the Valdosta State University Archives and Spec
 **June 19, 1990**
 *"Lowndes Teacher Discovered Dead"*
 Valdosta Daily Times
+*By Dean Poling, Times Staff Writer*
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
-<a href="/assets/documents/beverly-schappaugh-vdt-june-19-1990.pdf" target="_blank">View Document →</a>
+> A local primary school teacher was shot to death outside of the school where she was employed late Sunday night or early Monday morning, a Lowndes County sheriff's department official said.
+>
+> Beverly K. Schappaugh, 48, of Lowndes County was found dead from a single bullet wound to the left side of her chest, said Capt. Billy Selph of the Lowndes County Sheriff's Department detective bureau.
+>
+> She was found in a gray 1987 Nissan Sentra by a man walking his dog around 6:45 a.m. Monday, Selph said. The car was parked on the east corner of a field by the Pine Grove Primary School where Ms. Schappaugh was employed as a teacher for several years, he said.
+>
+> A handgun, which appeared to be a .38 caliber pistol, was lying beside her in the passenger seat, Selph said.
+>
+> The sheriff's department report ruled the incident as a shooting death but Selph said Monday afternoon no final ruling has been made on the case.
+>
+> "We don't know what we've got yet," he told The Valdosta Daily Times. "This may be a homicide. We'll have to wait for a complete autopsy report before making a classification."
+>
+> Ms. Schappaugh's body was sent to the state crime lab in Moultrie and is scheduled to be sent to Atlanta today for an autopsy.
+>
+> Walter Wacter, Lowndes County coroner, told The Times his preliminary autopsy showed the victim died sometime between 5 p.m. Sunday to early Monday morning.
+>
+> As for why Ms. Schappaugh was at the school, Selph said it is not uncommon for teachers to work on a Sunday.
+
+<a href="/assets/documents/beverly-schappaugh-vdt-june-19-1990.pdf" target="_blank">View Full Document →</a>
 
 ---
 
