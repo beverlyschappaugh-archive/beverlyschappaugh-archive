@@ -102,10 +102,6 @@ This page presents official documents relating to the death of Beverly Kay Schap
 **Issuing Authority:** G. Robert Carter, Sheriff of Lowndes County  
 **Subject:** Official ruling in the death of Beverly K. Schappaugh
 
-This news release documents the convening of an official meeting on September 7, 1990 to review evidence in the death of Beverly K. Schappaugh. Attendees included the Coroner, District Attorney, Assistant District Attorney, Sheriff, and Lowndes County Sheriff's Department detectives and investigators.
-
-The release states that following careful consideration of evidence and witness statements, Beverly K. Schappaugh was officially ruled murdered. No arrest was made. The investigation was reported as continuing.
-
 *Source: Original news release signed by G. Robert Carter, Sheriff of Lowndes County - held in family archive*
 
 <a href="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-lowndes-sheriff-press-release-september-1990.jpg" alt="Lowndes County Sheriff Department official news release dated September 7 1990 signed by Sheriff G Robert Carter officially ruling the death of Beverly K Schappaugh as murder" class="document-image"></a>
