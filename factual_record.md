@@ -44,6 +44,12 @@ The Florida Times-Union reports her death under the headline "Lowndes Teacher Fo
 
 ---
 
+**June 19, 1990**
+The Atlanta Journal-Constitution reports her death under the headline "Lowndes Teacher Is Found Dead."
+*Source: Atlanta Journal-Constitution, June 19, 1990 - family-preserved scan*
+
+---
+
 **June 21, 1990**
 The Valdosta Daily Times publishes Beverly Kay Schappaugh's obituary and reports under the headline "Gun Was Teacher's."
 *Source: Valdosta Daily Times, June 21, 1990 - VSU certified archival PDF*
