@@ -12,9 +12,9 @@ Archival PDFs were obtained from the Valdosta State University Archives and Spec
 
 ---
 
+## "Lowndes Teacher Discovered Dead"
 **June 19, 1990**  
-*"Lowndes Teacher Discovered Dead"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
@@ -42,9 +42,9 @@ Valdosta Daily Times
 
 ---
 
+## "Lowndes Teacher Found Shot to Death"
 **June 19, 1990**  
-*"Lowndes Teacher Found Shot to Death"*  
-Florida Times-Union - Jacksonville, Florida  
+*Florida Times-Union - Jacksonville, Florida*  
 *From staff*  
 *Source: Family-preserved scan - original newspaper clipping. This report documents coverage of the case beyond the Valdosta regional press.*
 
@@ -74,9 +74,9 @@ Florida Times-Union - Jacksonville, Florida
 
 ---
 
+## "Lowndes Teacher Is Found Dead"
 **June 19, 1990**  
-*"Lowndes Teacher Is Found Dead"*  
-Atlanta Journal-Constitution - Atlanta, Georgia  
+*Atlanta Journal-Constitution - Atlanta, Georgia*  
 *By Robert Bohler, Special to the Journal-Constitution*  
 *Source: Family-preserved scan - original newspaper clipping photographed from Find a Grave memorial contribution. This report documents coverage of the case in the Atlanta regional press.*
 
@@ -96,9 +96,9 @@ Atlanta Journal-Constitution - Atlanta, Georgia
 
 ---
 
+## "Gun Was Teacher's"
 **June 21, 1990**  
-*"Gun Was Teacher's"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF. This edition includes the obituary.*
 
@@ -132,8 +132,8 @@ Valdosta Daily Times
 
 ---
 
-*Obituary - Beverly Kay Schappaugh*  
-Valdosta Daily Times  
+## Obituary - Beverly Kay Schappaugh
+*Valdosta Daily Times*  
 *Source: VSU Archives and Special Collections - certified archival PDF. Obituary is included within this edition.*
 
 <a href="/assets/documents/beverly-schappaugh-vdt-june-21-1990-obit-photocopy.jpg" target="_blank" class="document-link"><img src="/assets/documents/beverly-schappaugh-vdt-june-21-1990-obit-photocopy.jpg" alt="Valdosta Daily Times June 21 1990 obituary for Beverly Kay Schappaugh fourth grade teacher Pine Grove Elementary School Valdosta Georgia volunteer Soup Kitchen survived by Paul Schappaugh Mark Schappaugh Stephanie Marquis" class="document-image"></a>
@@ -158,9 +158,9 @@ Valdosta Daily Times
 
 ---
 
+## "Teacher's Death Still Mystery"
 **June 23, 1990**  
-*"Teacher's Death Still Mystery"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
@@ -190,9 +190,9 @@ Valdosta Daily Times
 
 ---
 
+## "Judge 'Gags' Death Probe"
 **June 30, 1990**  
-*"Judge 'Gags' Death Probe"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
@@ -230,9 +230,9 @@ Valdosta Daily Times
 
 ---
 
+## "Schoolteacher Found Slain"
 **August 16, 1990**  
-*"Schoolteacher Found Slain"*  
-Valdosta Daily Times — Crimebusters/A Weekly Look At Unsolved Crimes In Lowndes County  
+*Valdosta Daily Times - Crimebusters/A Weekly Look At Unsolved Crimes In Lowndes County*  
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
@@ -280,9 +280,9 @@ Valdosta Daily Times — Crimebusters/A Weekly Look At Unsolved Crimes In Lownde
 
 ---
 
+## "Teacher's Death: Murder"
 **September 14, 1990**  
-*"Teacher's Death: Murder"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan - original physical newspaper page photographed and preserved by the family. This edition is not present in the Valdosta State University microfilm archive. VSU Archives staff confirmed the absence after multiple searches. No institutional explanation for the missing issue has been provided. This family scan is the sole known preserved copy of this edition.*
 
@@ -330,9 +330,9 @@ Valdosta Daily Times
 
 ---
 
+## "Questions Remain Two Years After Teacher's Death"
 **Undated - approximate 1992**  
-*"Questions Remain Two Years After Teacher's Death"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
 
@@ -362,21 +362,27 @@ Valdosta Daily Times
 >
 > Her car was found in an eastern corner of Pine Grove's playground. Next to her body, in the passenger seat, was a .38-caliber handgun.
 >
-> She also had a black eye, a bruise on one of her shoulders and both knees were scraped. Her father, John Dexter of Clearview, Fla., said in a 1990 interview that the wounds were so bad that her coffin remained shut during her funeral.
+> She also had a black eye, a bruise on one of her shoulders and both knees were scraped. Her father, John Dexter of Clearview, Fla., said in a 1990 interview that the wounds were so bad that her coffin remained closed during her June 22 funeral.
 >
-> On Sept. 13, 1990, authorities officially ruled her death a homicide.
+> "Her face was so badly bruised, I would not have known her if I'd seen her on the street," Dexter said in 1990.
 >
-> By the end of June 1990, Southern Circuit Court Judge Arthur McLane had put a gag order on the case. He later lifted the gag order, but there never has been any explanation as to the reason for it.
+> Dexter also said investigators told him they believe they know who killed his daughter.
 >
-> Many questions still surround this case, but authorities continue to say little about it. Former friends of Ms. Schappaugh have contacted The Valdosta Daily Times to ask about it. Why was she killed? Why is her death still unsolved? Why are authorities so reticent about it? — the same questions that were asked more than two years ago.
+> "I don't think there's any doubt in my mind they know who did it," he said, "but they just don't have enough evidence."
+>
+> Detective Capt. Billy Selph said he could not comment specifically on what evidence exists because of the gag order.
+>
+> "We're still working on it - trying to get enough evidence to make an arrest," Selph said.
+>
+> Anyone with information about the case is asked to contact the Lowndes County Sheriff's Department Detective Division at 333-5138.
 
 <a href="/assets/documents/beverly-schappaugh-vdt-circa-1992-photocopy.jpg" target="_blank">View Document →</a>
 
 ---
 
+## "Teacher's Death Gets Another Look"
 **January 9, 1993**  
-*"Teacher's Death Gets Another Look"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: VSU Archives and Special Collections - certified archival PDF*
 
@@ -410,9 +416,9 @@ Valdosta Daily Times
 
 ---
 
+## "Reward Offered In Murder Case"
 **Undated - approximate 1993**  
-*"Reward Offered In Murder Case"*  
-Valdosta Daily Times  
+*Valdosta Daily Times*  
 *By Dean Poling, Times Staff Writer*  
 *Source: Family-preserved scan. Archival version not located by VSU Archives staff.*
 
@@ -455,15 +461,12 @@ Valdosta Daily Times
 ---
 
 ## "Petition seeks justice for unsolved murder case"
+**Saturday, February 26, 1994**  
 *Valdosta Daily Times*  
-Saturday, February 26, 1994  
-By Dean Poling, Times Staff Writer  
+*By Dean Poling, Times Staff Writer*  
+*Source: Original clipping from family archive. VSU Archives was not consulted for this date. February 26, 1994 was outside the scope of the original microfilm research request.*
 
-**Source note:** Original clipping from family archive. VSU Archives was not consulted for this date. February 26, 1994 was outside the scope of the original microfilm research request.
-
-[![Valdosta Daily Times February 26 1994 petition article page one thumbnail](/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg)](/assets/beverly-schappaugh-vdt-february-26-1994.pdf){:target="_blank"}
-
-[View Full Document](/assets/beverly-schappaugh-vdt-february-26-1994.pdf){:target="_blank"}
+<a href="/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg" target="_blank" class="document-link"><img src="/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg" alt="Valdosta Daily Times February 26 1994 petition article page one thumbnail" class="document-image"></a>
 
 > **Petition seeks justice for unsolved murder case**
 >
@@ -520,13 +523,13 @@ By Dean Poling, Times Staff Writer
 >
 > *Anyone with information on the Schappaugh case should call the Lowndes County Sheriff's Department Detective Division at 333-5138.*
 
-
+<a href="/assets/beverly-schappaugh-vdt-february-26-1994.pdf" target="_blank">View Full Document →</a>
 
 ---
 
+## "Valdosta Murder Unsolved"
 **June 21, 2006**  
-*Letter to the Editor - "Valdosta Murder Unsolved"*  
-Waycross Journal-Herald - Waycross, Georgia  
+*Waycross Journal-Herald - Waycross, Georgia*  
 *Source: Waycross Journal-Herald, June 21, 2006 - family-preserved copy*
 
 *Note: This letter was submitted to multiple media outlets on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The Waycross Journal-Herald was the only publication that printed it.*
@@ -556,9 +559,9 @@ Waycross Journal-Herald - Waycross, Georgia
 
 ---
 
+## "Georgia Family Still Hopes for Closure"
 **June 22, 2006**  
-*"Georgia Family Still Hopes for Closure"*  
-WALB News 10 - Albany/Valdosta, Georgia  
+*WALB News 10 - Albany/Valdosta, Georgia*  
 *Reporter: Alicia Eakin*  
 *Source: WALB News 10 website, June 22, 2006 - family-preserved copy. This is a printout of the web article from walb.com summarizing the broadcast report aired by WALB News 10 on the sixteenth anniversary of Beverly Kay Schappaugh's murder. The original article remains available at <a href="https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/" target="_blank">https://www.walb.com/story/5066603/georgia-family-still-hopes-for-closure/</a>. This preserved copy is retained should the URL be removed in the future.*
 
@@ -571,4 +574,3 @@ WALB News 10 - Albany/Valdosta, Georgia
 > Family members and friends are urging Lowndes County Law Enforcement Agencies and State agencies to not forget Ms. Schappaugh's death and to continue the investigation.
 
 <a href="/assets/documents/beverly-schappaugh-walb-tv-june-22-2006.pdf" target="_blank">View Full Document →</a>
-
