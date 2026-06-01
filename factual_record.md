@@ -58,7 +58,7 @@ The Valdosta Daily Times publishes Beverly Kay Schappaugh's obituary and reports
 
 **June 22, 1990**
 Beverly Kay Schappaugh is entombed at Riverview Memorial Gardens, Valdosta, Georgia.
-*Source: Georgia Certificate of Death, Lowndes County*
+*Source: Georgia Certificate of Death, Lowndes County* See [Official Records](/official_records#georgia-certificate-of-death).
 
 ---
 
