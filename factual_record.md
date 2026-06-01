@@ -22,13 +22,13 @@ Beverly Kay Schappaugh participates in the federal Head Start program as an elem
 
 **June 18, 1990 - approximately 7:30 AM**
 Beverly Kay Schappaugh is found in the parking lot of Pine Grove Elementary School, Bemiss Road, Valdosta, Lowndes County, Georgia. She is 48 years old. The death certificate records this date as the date of death with the notation "FOUND," indicating the date of discovery. Her vehicle had been observed on school grounds at approximately 5:30 p.m. the previous evening, Sunday June 17. The grave marker at Riverview Memorial Gardens reflects June 17, 1990. Both dates appear in official records for the reasons stated.
-*Source: Georgia Certificate of Death, Lowndes County*
+*Source: Georgia Certificate of Death, Lowndes County* See [Official Records](/official_records#georgia-certificate-of-death).
 
 ---
 
 **June 18, 1990**
 Beverly Kay Schappaugh is pronounced dead.
-*Source: Georgia Certificate of Death, Lowndes County*
+*Source: Georgia Certificate of Death, Lowndes County* See [Official Records](/official_records#georgia-certificate-of-death).
 
 ---
 
@@ -82,7 +82,7 @@ The Valdosta Daily Times reports under the headline "Schoolteacher Found Slain."
 
 **September 7, 1990**
 The Lowndes County Sheriff's Department convenes a meeting to review evidence in the death of Beverly K. Schappaugh. Present at the meeting are Coroner Walter Wacter, District Attorney H. Lamar Cole, Assistant District Attorney David Miller, Sheriff G. Robert Carter, Captain Billy W. Selph, Lieutenant Logan Henderson, and Lowndes County Sheriff's Department detectives. Following this meeting, Sheriff G. Robert Carter issues an official news release stating that Beverly K. Schappaugh was murdered. No arrest is made. The investigation is reported as continuing.
-*Source: Lowndes County Sheriff's Department News Release, signed by G. Robert Carter, Sheriff of Lowndes County, September 7, 1990 - held in family archive*
+*Source: Lowndes County Sheriff's Department News Release, signed by G. Robert Carter, Sheriff of Lowndes County, September 7, 1990 - held in family archive* See [Official Records](/official_records#lowndes-county-sheriffs-department---official-news-release).
 
 ---
 
@@ -94,7 +94,7 @@ The Valdosta Daily Times reports the official ruling of homicide under the headl
 
 **September 14, 1990**
 The Georgia Certificate of Death records the cause of death as exsanguination due to gunshot wound to the chest. The manner of death is recorded as homicide. The place of injury is recorded as a school parking lot.
-*Source: Georgia Certificate of Death, Lowndes County*
+*Source: Georgia Certificate of Death, Lowndes County* See [Official Records](/official_records#georgia-certificate-of-death).
 
 ---
 
