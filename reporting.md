@@ -454,6 +454,76 @@ Valdosta Daily Times
 
 ---
 
+## "Petition seeks justice for unsolved murder case"
+*Valdosta Daily Times*  
+Saturday, February 26, 1994  
+By Dean Poling, Times Staff Writer  
+
+**Source note:** Original clipping from family archive. VSU Archives was not consulted for this date. February 26, 1994 was outside the scope of the original microfilm research request.
+
+[![Valdosta Daily Times February 26 1994 petition article page one thumbnail](/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg)](/assets/beverly-schappaugh-vdt-february-26-1994.pdf){:target="_blank"}
+
+[View Full Document](/assets/beverly-schappaugh-vdt-february-26-1994.pdf){:target="_blank"}
+
+> **Petition seeks justice for unsolved murder case**
+>
+> By DEAN POLING  
+> Times Staff Writer  
+>
+> VALDOSTA — It's been nearly four years since Beverly K. Schappaugh, a Lowndes County school teacher, was found shot to death in her car. And Kimberly Tyson, a family friend of the Schappaughs, says she is furious there has been no arrest in the case.
+>
+> Frustration and anger have led Ms. Tyson to circulate a petition throughout the region - a petition demanding justice.
+>
+> "I feel like not enough has been done to solve her murder, and I hope new information will come forth with the petition," she said Friday.
+>
+> The petition reads: "Help Us Fight! ...We being people who feel that justice must be served and that the guilty must be punished. Beverly Schappaugh, a teacher who taught hundreds of children in our area, was murdered in the woods by Pine Grove Elementary. The murder has not been solved! We demand justice!"
+>
+> In its first day of circulation Friday, Ms. Tyson said she collected about 100 names. She said many signers were surprised by the petition, and she was surprised by the signers' initial reaction.
+>
+> "... A lot of people thought this case had already been solved," she said. "If nothing else the petition may serve as a reminder that it has not."
+>
+> *The Valdosta Daily Times* asked  
+> See PETITION, Page 2-A
+>
+> It was early Monday morning, June 18, 1990, when Beverly K. Schappaugh was found dead in her gray 1987 Nissan Sentra parked on the playground of Pine Grove Primary School. An autopsy showed she died of a single gunshot wound to the left side of her chest; a .38-caliber handgun was found in the passenger seat next to her body. She'd also been badly beaten.
+>
+> Sunday afternoon, June 17, 1990, the Lowndes County school system teacher was seen at Pine Grove doing end-of-the-school-year work.
+>
+> But it would be several months after her death before authorities ruled the shooting a homicide.
+>
+> Lowndes County Sheriff's Department detectives have been working the case since her body was found that early June morning.
+>
+> Lowndes authorities were unavailable to comment on the case or the petition Friday. But in the past, their goal has been to figure out what happened between that Sunday afternoon and when the body was found.
+>
+> Last April, Lowndes Sheriff Ashley Paulk offered a $2,500 reward for information leading to an arrest and conviction in the case. But there has never been enough information or evidence to surface to bring about an arrest.
+>
+> **Petition**  
+> From Page 1-A  
+>
+> Valdosta Police Detective Lt. Earl Spurlock to comment on unsolved murder cases in general from a law-enforcement standpoint. In these responses, Spurlock is not commenting on the Schappaugh case, and with this case being in the county, it is not in the city police department's jurisdiction.
+>
+> "In an unsolved murder case, a detective may have a good idea of who did it," Spurlock said. "But you have to prove your case with evidence or witnesses."
+>
+> He also said if a suspect is prematurely charged with a murder and it goes to court without enough evidence for a jury to convict, then that's it. If new evidence surfaces later or new evidence points to someone else, it's too late - the case is usually considered closed.
+>
+> "You'd better have your ducks in a row before taking it to court."
+>
+> One boon to an unsolved murder case is that there is no statute of limitations. An unsolved murder case is never considered closed, the detective said.
+>
+> Even if new information surfaces 10 or more years later, law-enforcement can still make an arrest and take the case to trial.
+>
+> However, the longer a case remains unsolved the tougher it is to put all of the pieces together, Spurlock said. But law-enforcement agencies never stop investigating the unsolved cases.
+>
+> Referring to one of the city's unsolved murder cases, Spurlock said "that has really drove us up the wall. Every time a piece of new information comes in, it's checked out. But we still haven't got enough pieces to put it all together.
+>
+> "...Nothing frustrates an investigator more than an unsolved murder."
+>
+> *Anyone with information on the Schappaugh case should call the Lowndes County Sheriff's Department Detective Division at 333-5138.*
+
+
+
+---
+
 **June 21, 2006**  
 *Letter to the Editor - "Valdosta Murder Unsolved"*  
 Waycross Journal-Herald - Waycross, Georgia  

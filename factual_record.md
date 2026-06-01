@@ -116,6 +116,12 @@ The Valdosta Daily Times reports a reward offered in connection with the murder 
 
 ---
 
+**February 26, 1994**
+The Valdosta Daily Times publishes "Petition seeks justice for unsolved murder case" by Dean Poling. Kimberly Tyson, a family friend of the Schappaughs, circulates a petition throughout the region demanding justice, nearly four years after Beverly's death. The petition collects approximately 100 signatures on its first day. Tyson states: "A lot of people thought this case had already been solved." Lowndes County authorities are unavailable to comment. Valdosta Police Detective Lt. Earl Spurlock speaks generally on unsolved murder cases; notes the Schappaugh case is outside city jurisdiction. See [Reporting](/reporting).
+*Source: Valdosta Daily Times, February 26, 1994 - family-preserved clipping, VSU Archives not consulted for this date*
+
+---
+
 **June 21, 2006**
 On the sixteenth anniversary of Beverly Kay Schappaugh's death, family members publish a letter in the Waycross Journal-Herald documenting their dissatisfaction with the progress of the murder investigation and the lack of press coverage of the unsolved case.
 *Source: Waycross Journal-Herald, June 21, 2006 - family-preserved copy*
