@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Official Records
-description: "Official documents in the Beverly Schappaugh case — Georgia death certificate, Lowndes County Sheriff press release ruling her 1990 death a homicide."
+description: "Official documents in the Beverly Schappaugh case - Georgia death certificate, Lowndes County Sheriff press release ruling her 1990 death a homicide - Georgia State vital records verification - and VSU Archives microfilm research correspondence."
 ---
 # Official Records
 
-This page presents official documents relating to the death of Beverly Kay Schappaugh. Documents are presented as received. The death certificate contains one redaction: the Social Security Number has been obscured to protect private information. All other fields on all documents are unaltered. Provenance is identified for each artifact.
+This page presents official documents relating to the death of Beverly Kay Schappaugh. Documents are presented as received. The death certificate contains one redaction: the Social Security Number has been obscured to protect private information. Correspondence documents have personal contact details redacted; all institutional content is unaltered. Provenance is identified for each artifact.
 
 ---
 
@@ -127,18 +127,40 @@ This page presents official documents relating to the death of Beverly Kay Schap
 
 ## Georgia State Vital Records Verification
 
-**Date:** August 2025
-**Issuing Authority:** Forsyth County Probate Court acting on behalf of the Georgia State Office of Vital Records
-**Verification:** The official Certificate of Death for Beverly Kay Schappaugh on file with the Georgia State Office of Vital Records reflects manner of death as homicide at field 27. State file number confirmed as 1990GA000033892. Record is consistent with the Lowndes County copy held by the family.
+In August 2025, a request was submitted to the Forsyth County Probate Court seeking verification of the Georgia State Office of Vital Records record for Beverly Kay Schappaugh. Forsyth County Probate Court acts as a local agent of the Georgia State Office of Vital Records.
 
-*Source: Written confirmation retained in family archive*
+Carol Seitz, Clerk, Forsyth County Probate Court, confirmed in written correspondence dated August 6, 2025 that field 27 of the state death certificate record continues to reflect homicide as the manner of death. She further confirmed that the state file number is 1990GA000033892, and clarified that while the local display renders the number as "033892," the full number 1990GA000033892 was transmitted when the office submitted its ticket to the State Office of Vital Records.
+
+The following document is the August 6, 2025 response from Carol Seitz, Clerk, Forsyth County Probate Court, confirming these findings. Her direct email address has been redacted. Her institutional signature block has been appended from the same correspondence thread to identify her official capacity.
+
+<a href="/assets/documents/beverly-schappaugh-forsyth-county-vital-records-correspondence-august-6-2025-redacted.pdf" target="_blank">View Document →</a>
+
+*Note: The time displayed in the email header reflects the sender's local time zone as rendered by the recipient's email client at the time of printing. The original send time as recorded by Gmail is 1:52 PM Eastern Time, Wednesday, August 6, 2025.*
+
+---
+
+## VSU Archives and Special Collections - Research Correspondence
+
+In 2025, a formal research request was submitted to the Valdosta State University Archives and Special Collections seeking microfilm scans of Valdosta Daily Times editions covering the death of Beverly Kay Schappaugh. VSU Archives holds the official institutional microfilm archive for the Valdosta Daily Times.
+
+VSU Archives staff located and produced certified archival scans of the following editions: June 19, June 21, June 23, and June 30, 1990; August 16, 1990; and January 9, 1993.
+
+Two additional family-preserved clippings exist but carry no publication date. VSU Archives staff conducted a preliminary search but were unable to commit resources to searching the full microfilm archive without specific edition dates. No archival verification of these clippings was completed.
+
+VSU Archives staff also confirmed that the September 14, 1990 edition - the edition reporting the official homicide ruling - is absent from the microfilm archive. Staff noted that no damage notation or unavailability notation exists to account for the missing issue, which is atypical for missing editions.
+
+The following document is the July 31, 2025 institutional response from Raya A. Schilke, Graduate Assistant, VSU Archives and Special Collections, confirming these findings. Personal contact details have been redacted.
+
+<a href="/assets/documents/beverly-schappaugh-vsu-archives-correspondence-july-31-2025-redacted.pdf" target="_blank">View Document →</a>
+
+*Note: The time displayed in the email header reflects the sender's local time zone as rendered by the recipient's email client at the time of printing. The original send time as recorded by Gmail is 4:48 PM Eastern Time, Thursday, July 31, 2025.*
 
 ---
 
 ## VSU Archives - Missing Microfilm Confirmation
 
-**Date:** 2025
-**Issuing Authority:** Valdosta State University Archives and Special Collections
+**Date:** 2025  
+**Issuing Authority:** Valdosta State University Archives and Special Collections  
 **Subject:** Absence of the September 14, 1990 edition of the Valdosta Daily Times from the VSU microfilm collection
 
 Documentation provided by VSU Archives and Special Collections confirming the September 14, 1990 edition of the Valdosta Daily Times is absent from the VSU microfilm collection. The VSU microfilm archive is the official institutional archive for the Valdosta Daily Times. The document is a scan of the microfilm showing the September 15, 1990 edition where the September 14 edition should appear, demonstrating the gap in the sequential record. The September 14 edition reported the official ruling of Beverly Kay Schappaugh's death as homicide. The reason for its absence from the institutional archive is undocumented. A family-preserved scan of this edition is the sole known surviving copy.
