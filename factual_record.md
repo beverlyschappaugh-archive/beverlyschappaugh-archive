@@ -135,8 +135,8 @@ WALB News 10 reports on the unsolved case under the headline "Georgia Family Sti
 ---
 
 **2025**
-The Georgia Department of Human Resources Vital Records Service confirmed that the official Certificate of Death for Beverly Kay Schappaugh on file in the Georgia State Archives reflects manner of death as homicide. State file number 1990GA000033892. This record is consistent with the Lowndes County copy held by the family.
-*Source: Written confirmation from Forsyth County Probate Court acting on behalf of Georgia State Office of Vital Records, August 2025 - retained in family archive*
+Forsyth County Probate Court, acting on behalf of the Georgia State Office of Vital Records, confirmed that the official Certificate of Death for Beverly Kay Schappaugh on file with the Georgia State Office of Vital Records reflects manner of death as homicide at field 27. State file number confirmed as 1990GA000033892. This record is consistent with the Lowndes County copy held by the family.
+*Source: Written confirmation from Carol Seitz, Clerk, Forsyth County Probate Court, acting on behalf of the Georgia State Office of Vital Records, August 6, 2025 See <a href="/official_records#georgia-state-vital-records-verification" target="_blank">Official Records</a>.*
 
 ---
 
