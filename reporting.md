@@ -466,7 +466,7 @@ Archival PDFs were obtained from the Valdosta State University Archives and Spec
 *By Dean Poling, Times Staff Writer*  
 *Source: Original clipping from family archive. VSU Archives was not consulted for this date. February 26, 1994 was outside the scope of the original microfilm research request.*
 
-<a href="/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg" target="_blank" class="document-link"><img src="/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg" alt="Valdosta Daily Times February 26 1994 petition article page one thumbnail" class="document-image"></a>
+<a href="/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg" target="_blank" class="document-link"><img src="/assets/beverly-schappaugh-vdt-february-26-1994-thumb.jpg" alt="Valdosta Daily Times February 26 1994 article by Dean Poling reporting petition seeking justice in unsolved murder of Beverly Kay Schappaugh Lowndes County elementary school teacher killed June 1990 Pine Grove Elementary School Valdosta Georgia" class="document-image"></a>
 
 > **Petition seeks justice for unsolved murder case**
 >
