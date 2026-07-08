@@ -1,0 +1,3 @@
+#!/bin/bash
+# Delegates to shared validator in claude-projects/.claude/hooks/
+bash /opt/git/claude-projects/.claude/hooks/commit-msg-validate.sh "$1"
