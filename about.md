@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About This Site
-description: "About the Beverly Schappaugh Memorial Archive — purpose, sources, and context for this permanent public record of an unsolved 1990 homicide in Valdosta, Georgia."
+description: "About the Beverly Schappaugh Memorial Archive - purpose, sources, and context for this permanent public record of an unsolved 1990 homicide in Valdosta, Georgia."
 ---
 
 # About This Site
