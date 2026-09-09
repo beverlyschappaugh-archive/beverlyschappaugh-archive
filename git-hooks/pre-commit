@@ -1,0 +1,3 @@
+#!/bin/bash
+# Delegates to shared pre-commit validator.
+bash /opt/git/claude-projects/.claude/hooks/pre-commit-validate.sh
